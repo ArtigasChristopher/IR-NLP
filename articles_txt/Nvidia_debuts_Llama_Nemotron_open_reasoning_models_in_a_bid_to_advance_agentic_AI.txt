@@ -1,0 +1,32 @@
+Nvidia is getting into the open source reasoning model market.
+At the Nvidia GTC event today, the AI giant made a series of hardware and software announcements. Buried amidst the big silicon announcements, the company announced a new set of open source Llama Nemotron reasoning models to help accelerate agentic AI workloads. The new models are an extension of the Nvidia Nemotron models that were first announced in January at the Consumer Electronics Show (CES).
+Navigating AI Regulations in Telecom - AI Impact Tour 2024
+The new Llama Nemotron reasoning models are in part a response to the dramatic rise of reasoning models in 2025. Nvidia (and its stock price) were rocked to the core earlier this year when DeepSeek R1 came out, offering the promise of an open source reasoning model and superior performance.
+The Llama Nemotron family models are competitive with DeepSeek offering business-ready AI reasoning models for advanced agents. 
+“Agents are autonomous software systems designed to reason, plan, act and critique their work,” Kari Briski, vice president of Generative AI Software Product Managements at Nvidia said during a GTC pre-briefing with press. “Just like humans, agents need to understand context to breakdown complex requests, understand the user’s intent, and adapt in real time.”
+What’s inside Llama Nemotron for agentic AI
+As the name implies Llama Nemotron is based on Meta’s open source Llama models.
+With Llama as the foundation, Briski said that Nvidia algorithmically pruned the model to optimize compute requirements while maintaining accuracy.
+Nvidia also applied sophisticated post-training techniques using synthetic data. The training involved 360,000 H100 inference hours and 45,000 human annotation hours to enhance reasoning capabilities. All that training results in models that have exceptional reasoning capabilities across key benchmarks for math, tool calling, instruction following and conversational tasks, according to Nvidia.
+The Llama Nemotron family has three different models
+ADVERTISEMENT
+The family includes three models targeting different deployment scenarios:
+Nemotron Nano: Optimized for edge and smaller deployments while maintaining high reasoning accuracy.
+Nemotron Super: Balanced for optimal throughput and accuracy on single data center GPUs.
+Nemotron Ultra: Designed for maximum “agentic accuracy” in multi-GPU data center environments.
+For availability, Nano and Super are now available at NIM micro services and can be downloaded at AI.NVIDIA.com. Ultra is coming soon.
+Hybrid reasoning helps to advance agentic AI workloads
+ADVERTISEMENT
+One of the key features in Nvidia Llama Nemotron is the ability to toggle reasoning on or off.
+The ability to toggle reasoning is an emerging capability in the AI market. Anthropic Claude 3.7 has a somewhat similar functionality, though that model is a closed proprietary model. In the open source space IBM Granite 3.2 also has a reasoning toggle that IBM refers to as – conditional reasoning.
+The promise of hybrid or conditional reasoning is that it allows systems to bypass computationally expensive reasoning steps for simple queries. In a demonstration, Nvidia showed how the model could engage complex reasoning when solving a combinatorial problem but switch to direct response mode for simple factual queries.
+Nvidia Agent AI-Q blueprint provides an enterprise integration layer
+Recognizing that models alone aren’t sufficient for enterprise deployment, Nvidia also  announced the Agent AI-Q blueprint, an open-source framework for connecting AI agents to enterprise systems and data sources.
+“AI-Q is a new blueprint that enables agents to query multiple data types—text, images, video—and leverage external tools like web search and other agents,” Briski said. “For teams of connected agents, the blueprint provides observability and transparency into agent activity, allowing developers to improve the system over time.”
+The AI-Q blueprint is set to become available in April
+Why this matters for enterprise AI adoption
+For enterprises considering advanced AI agent deployments, Nvidia’s announcements address several key challenges.
+The open nature of Llama Nemotron models allows businesses to deploy reasoning-capable AI within their own infrastructure. That’s important as it can address data sovereignty and privacy concerns that can have limited adoption of cloud-only solutions. By building the new models as NIMs, Nvidia is also making it easier for organizations to deploy and manage deployments, whether on-premises or in the cloud.
+The hybrid, conditional reasoning approach is also important to note as it provides organizations with another option to choose from for this type of emerging capability. Hybrid reasoning allows enterprises to optimize for either thoroughness or speed, saving on latency and compute for simpler tasks while still enabling complex reasoning when needed.
+As enterprise AI moves beyond simple applications to more complex reasoning tasks, Nvidia’s combined offering of efficient reasoning models and integration frameworks positions companies to deploy more sophisticated AI agents that can handle multi-step logical problems while maintaining deployment flexibility and cost efficiency.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

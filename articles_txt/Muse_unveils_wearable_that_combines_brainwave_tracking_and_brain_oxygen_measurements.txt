@@ -1,0 +1,31 @@
+Muse by Interaxon, a neurotechnology startup, unveiled Muse S Athena, a consumer wearable that can deliver advanced cognitive fitness insights. It does so by combining two powerful brain sensors: Electroencephalogram (EEG) to track brain activity and Functional Near-Infrared Spectroscopy (fNIRS), a technology that measures oxygen levels in the brain’s frontal cortex.
+Athena transforms real-time brain activity into actionable insights, personalized training, and measurable progress, the company said. It’s powered by Muse’s AI-driven Foundational Brain Model (FBM), which is trained on over 80,000 sessions from the world’s largest EEG database.
+212_Does marketing D2C work outside your mobile game.mp4
+Expanding beyond sleep and meditation, Athena marks Toronto, Canada-based Muse’s transformation into a full-spectrum brain health brand, empowering users to strengthen their minds just as they do their bodies.
+By integrating dual-brain sensor neurofeedback with AI-powered analysis, Athena measures and trains mental strength, clarity and recovery by analyzing brain activity and oxygenation levels in real time. This breakthrough redefines mental fitness and cognitive health, giving users the ability to optimize focus, endurance, and resilience while proactively addressing cognitive decline.
+With Athena, users train their minds by wearing a lightweight sensor-equipped headband and engaging with real-time neurofeedback in the Muse App. In addition to the classic Muse neurofeedback experiences using EEG alone, Athena users will now have access to a new challenge: control an owl’s flight using only mental effort.
+Unlike previous models, Athena supports both eyes-open and eyes-closed training, helping users build cognitive endurance in dynamic tasks or deepen focus in meditation. As effort increases, the owl soars; as mental strain decreases (measured by brain blood oxygenation levels), it slows—providing real-time biofeedback to strengthen focus, resilience, and concentration.
+Bringing advanced brain training to everyday life
+Muse is a headband with sensors.
+With dementia affecting six million Americans and projected to double by 2060, the need for proactive brain health solutions has never been greater. Research shows that lifestyle, habits, and early intervention can help slow or prevent cognitive decline, yet most people focus primarily on physical health when it comes to aging. It measures:
+ADVERTISEMENT
+EEG (The Skill of the Mind): Tracks brainwave activity and measures how the mind shifts between brain states like focus or relaxation.
+fNIRS (The Strength and Endurance of Mental Fitness): Monitors brain oxygenation, showing how well the brain is fueled to handle stress, sustain attention, and recovery.
+“True health isn’t just physical—it starts with your brain.” said Jean-Michel Fournier, CEO of Interaxon, in a statement. “Athena is designed to tackle the growing challenge of cognitive decline while marking Muse’s evolution from meditation to full-spectrum brain health. Just as physical fitness requires strength, endurance, and skill, mental fitness demands the same targeted training. Athena provides the tools to enhance cognitive performance, build resilience, and support lifelong brain health.”
+ADVERTISEMENT
+Athena’s dual-brain sensor technology unlocks a deeper, multidimensional view of mental effort and resilience—surpassing what EEG or fNIRS alone can measure. Powered by AI-driven insights from Muse’s Foundational Brain Model, Athena personalizes neurofeedback training with unmatched precision, making advanced brain health insights more accessible than ever.
+How EEG + fNIRS is advancing neurotechnology:
+Muse will help address the rise of dementia.
+AI-powered holistic insights: EEG captures rapid neural oscillations, while fNIRS tracks cerebral blood oxygenation. Together with Muse’s Foundational Brain Model, they provide a holistic understanding of mental effort, focus, and resilience.
+Targeted cognitive training: fNIRS enables precise monitoring of the prefrontal cortex, a region critical for executive function, allowing Athena to guide interventions that improve memory, attention, and problem-solving skills.
+Neurovascular coupling & accuracy: By linking electrical activity (EEG) and blood flow (fNIRS), Athena offers deeper insights into how the brain adapts during cognitive tasks, enhancing training programs and neuroplasticity.
+Athena’s impact also extends beyond just personal use:
+Workplace performance (Neuroergonomics): Helps optimize mental load and productivity in high-pressure environments.
+Sleep health & diagnostics: Muse S is the most accurate sleep tracker outside of the lab and now can monitor brain oxygenation and SpO₂ levels more effectively than wrist or finger measurements to detect early signs of sleep apnea.
+Cognitive aging research: Supports interventions for age-related cognitive decline with real-time brain data.
+Muse is a new kind of consumer sleep wearable.
+“Muse headbands are becoming a game changer in the landscape of sleep wearables. Their accessibility and ease of use, combined with remote access to both raw and scored EEG data after each recording, open up exciting new opportunities to explore the sleeping brain at scale in the field,” said Rebecca Robillard, a sleep researcher with the Canadian Sleep Research Consortium, in a statement. “I can’t wait to see the upcoming science and clinical applications that will leverage the new fNIRS and SpO₂ features of Athena.”
+Athena makes research-grade neuroscience accessible and actionable, setting a new standard for brain health by bridging cutting-edge research with everyday cognitive fitness. Muse S “Athena” is now available at choosemuse.com for $475.
+Muse’s AI-driven neurotech tools empower researchers, developers, and consumers worldwide, and are underpinned by over 200 third-party-led research studies from renowned institutions including the Mayo Clinic, MIT, and Harvard. Muse has collected and decoded over a billion minutes of brain data to date, comprising one of the largest EEG collections in the world.
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

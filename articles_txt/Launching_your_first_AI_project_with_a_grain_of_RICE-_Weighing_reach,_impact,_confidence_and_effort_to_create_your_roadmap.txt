@@ -1,0 +1,87 @@
+Businesses know they can’t ignore AI, but when it comes to building with it, the real question isn’t, What can AI do — it’s, What can it do reliably? And more importantly: Where do you start?
+This article introduces a framework to help businesses prioritize AI opportunities. Inspired by project management frameworks like the RICE scoring model for prioritization, it balances business value, time-to-market, scalability and risk to help you pick your first AI project.
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+Where AI is succeeding today
+AI isn’t writing novels or running businesses just yet, but where it succeeds is still valuable. It augments human effort, not replaces it. 
+In coding, AI tools improve task completion speed by 55% and boost code quality by 82%. Across industries, AI automates repetitive tasks — emails, reports, data analysis—freeing people to focus on higher-value work.
+This impact doesn’t come easy. All AI problems are data problems. Many businesses struggle to get AI working reliably because their data is stuck in silos, poorly integrated or simply not AI-ready. Making data accessible and usable takes effort, which is why it’s critical to start small.
+Generative AI works best as a collaborator, not a replacement. Whether it’s drafting emails, summarizing reports or refining code, AI can lighten the load and unlock productivity. The key is to start small, solve real problems and build from there.
+A framework for deciding where to start with generative AI
+Everyone recognizes the potential of AI, but when it comes to making decisions about where to start, they often feel paralyzed by the sheer number of options.
+That’s why having a clear framework to evaluate and prioritize opportunities is essential. It gives structure to the decision-making process, helping businesses balance the trade-offs between business value, time-to-market, risk and scalability.
+ADVERTISEMENT
+This framework draws on what I’ve learned from working with business leaders, combining practical insights with proven approaches like RICE scoring and cost-benefit analysis, to help businesses focus on what really matters: Delivering results without unnecessary complexity.
+Why a new framework?
+Why not use existing frameworks like RICE?
+While useful, they don’t fully account for AI’s stochastic nature. Unlike traditional products with predictable outcomes, AI is inherently uncertain. The “AI magic” fades fast when it fails, producing bad results, reinforcing biases or misinterpreting intent. That’s why time-to-market and risk are critical. This framework helps bias against failure, prioritizing projects with achievable success and manageable risk.
+ADVERTISEMENT
+By tailoring your decision-making process to account for these factors, you can set realistic expectations, prioritize effectively and avoid the pitfalls of chasing over-ambitious projects. In the next section, I’ll break down how the framework works and how to apply it to your business.
+The framework: Four core dimensions
+Business value:
+What’s the impact? Start by identifying the potential value of the application. Will it increase revenue, reduce costs or enhance efficiency? Is it aligned with strategic priorities? High-value projects directly address core business needs and deliver measurable results.
+Time-to-market:
+How quickly can this project be implemented? Evaluate the speed at which you can go from idea to deployment. Do you have the necessary data, tools and expertise? Is the technology mature enough to execute efficiently? Faster implementations reduce risk and deliver value sooner.
+Risk:
+What could go wrong?: Assess the risk of failure or negative outcomes. This includes technical risks (will the AI deliver reliable results?), adoption risks (will users embrace the tool?) and compliance risks (are there data privacy or regulatory concerns?). Lower-risk projects are better suited for initial efforts. Ask yourself if you can only achieve 80% accuracy, is that ok?
+Scalability (long-term viability):
+Can the solution grow with your business? Evaluate whether the application can scale to meet future business needs or handle higher demand. Consider the long-term feasibility of maintaining and evolving the solution as your requirements grow or change.
+Scoring and prioritization
+Each potential project is scored across these four dimensions using a simple 1-5 scale:
+Business value: How impactful is this project?
+Time-to-market: How realistic and quick is it to implement?
+Risk: How manageable are the risks involved? (Lower risk scores are better.)
+Scalability: Can the application grow and evolve to meet future needs?
+For simplicity, you can use T-shirt sizing (small, medium, large) to score dimensions instead of numbers.
+Calculating a prioritization score
+Once you’ve sized or scored each project across the four dimensions, you can calculate a prioritization score:
+Prioritization score formula. Source: Sean Falconer
+Here, α (the risk weight parameter) allows you to adjust how heavily risk influences the score:
+α=1 (standard risk tolerance): Risk is weighted equally with other dimensions. This is ideal for organizations with AI experience or those willing to balance risk and reward.
+α> (risk-averse organizations): Risk has more influence, penalizing higher-risk projects more heavily. This is suitable for organizations new to AI, operating in regulated industries, or in environments where failures could have significant consequences. Recommended values: α=1.5 to α=2
+α<1 (high-risk, high-reward approach): Risk has less influence, favoring ambitious, high-reward projects. This is for companies comfortable with experimentation and potential failure. Recommended values: α=0.5 to α=0.9
+By adjusting α, you can tailor the prioritization formula to match your organization’s risk tolerance and strategic goals. 
+This formula ensures that projects with high business value, reasonable time-to-market, and scalability — but manageable risk — rise to the top of the list.
+Applying the framework: A practical example
+Let’s walk through how a business could use this framework to decide which gen AI project to start with. Imagine you’re a mid-sized e-commerce company looking to leverage AI to improve operations and customer experience.
+Step 1: Brainstorm opportunities
+Identify inefficiencies and automation opportunities, both internal and external. Here’s a brainstorming session output:
+Internal opportunities:
+Automating internal meeting summaries and action items.
+Generating product descriptions for new inventory.
+Optimizing inventory restocking forecasts.
+Performing sentiment analysis and automatic scoring for customer reviews.
+External opportunities:
+Creating personalized marketing email campaigns.
+Implementing a chatbot for customer service inquiries.
+Generating automated responses for customer reviews.
+Step 2: Build a decision matrix
+Application Business value Time-to-market Scalability Risk Score
+Meeting Summaries 3 5 4 2 30
+Product Descriptions 4 4 3 3 16
+Optimizing Restocking 5 2 4 5 8
+Sentiment Analysis for Reviews 5 4 2 4 10
+Personalized Marketing Campaigns 5 4 4 4 20
+Customer Service Chatbot 4 5 4 5 16
+Automating Customer Review Replies 3 4 3 5 7.2
+Evaluate each opportunity using the four dimensions: Business value, time-to-market, risk and scalability. In this example, we’ll assume a risk weight value of α=1. Assign scores (1-5) or use T-shirt sizes (small, medium, large) and translate them to numerical values.
+Step 3: Validate with stakeholders
+Share the decision matrix with key stakeholders to align on priorities. This might include leaders from marketing, operations and customer support. Incorporate their input to ensure the chosen project aligns with business goals and has buy-in.
+Step 4: Implement and experiment
+Starting small is critical, but success depends on defining clear metrics from the beginning. Without them, you can’t measure value or identify where adjustments are needed.
+Start small: Begin with a proof of concept (POC) for generating product descriptions. Use existing product data to train a model or leverage pre-built tools. Define success criteria upfront — such as time saved, content quality or the speed of new product launches.
+Measure outcomes: Track key metrics that align with your goals. For this example, focus on:
+Efficiency: How much time is the content team saving on manual work?
+Quality: Are product descriptions consistent, accurate and engaging?
+Business impact: Does the improved speed or quality lead to better sales performance or higher customer engagement?
+Monitor and validate: Regularly track metrics like ROI, adoption rates and error rates. Validate that the POC results align with expectations and make adjustments as needed. If certain areas underperform, refine the model or adjust workflows to address those gaps.
+Iterate: Use lessons learned from the POC to refine your approach. For example, if the product description project performs well, scale the solution to handle seasonal campaigns or related marketing content. Expanding incrementally ensures you continue to deliver value while minimizing risks.
+Step 5: Build expertise
+Few companies start with deep AI expertise — and that’s okay. You build it by experimenting. Many companies start with small internal tools, testing in a low-risk environment before scaling.
+This gradual approach is critical because there’s often a trust hurdle for businesses that must be overcome. Teams need to trust that the AI is reliable, accurate and genuinely beneficial before they’re willing to invest more deeply or use it at scale. By starting small and demonstrating incremental value, you build that trust while reducing the risk of overcommitting to a large, unproven initiative.
+Each success helps your team develop the expertise and confidence needed to tackle larger, more complex AI initiatives in the future.
+Wrapping Up
+You don’t need to boil the ocean with AI. Like cloud adoption, start small, experiment and scale as value becomes clear.
+AI should follow the same approach: start small, learn, and scale. Focus on projects that deliver quick wins with minimal risk. Use those successes to build expertise and confidence before expanding into more ambitious efforts.
+Gen AI has the potential to transform businesses, but success takes time. With thoughtful prioritization, experimentation and iteration, you can build momentum and create lasting value.
+Sean Falconer is AI entrepreneur in residence at Confluent.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

@@ -1,0 +1,37 @@
+Today at Adobe‘s annual digital innovation conference Summit 2024 in Las Vegas, the company is unveiling Project Slide Wow, a generative AI-driven tool designed to streamline the creation of PowerPoint presentations directly from raw customer data.
+Presented as part of the “Adobe Sneaks” program, the innovation aims to solve a common challenge for marketers and analysts—transforming complex data into compelling, easy-to-digest presentations.
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+From data to presentation—automatically
+Project Slide Wow integrates with Adobe Customer Journey Analytics (CJA) to automatically generate PowerPoint slides populated with relevant data visualizations and speaker notes. This allows marketers and business analysts to quickly build data-backed presentations without manually structuring content or designing slides.
+“It’s analyzing all the charts in this project, generating captions for them, organizing them into a narrative, and creating the presentation slides,” said Jane Hoffswell, a research scientist at Adobe and the creator of Project Slide Wow, in a video call interview with VentureBeat a few days ago. “It figures out the best way to focus on the most important pieces of data.”
+A standout feature of the tool is its interactive AI agent within PowerPoint. Users can ask follow-up questions, request additional visualizations, or dynamically generate new slides on the fly, making it an adaptable solution for data-driven storytelling.
+One of the biggest advantages of Project Slide Wow is its ability to handle live data updates.
+Instead of static presentations that quickly become outdated, users can refresh their slides to reflect the latest analytics, which is particularly valuable for businesses that rely on real-time data insights.
+“We wanted this technology to be able to keep your data fresh and alive. If you give a presentation six months later, people will want to know how things have changed,” Hoffswell told VentureBeat.
+The tech under the hood
+ADVERTISEMENT
+Unlike many recent AI-powered tools, Project Slide Wow does not rely on large language models (LLMs) like OpenAI’s GPT or Adobe’s Firefly.
+Instead, Adobe’s research team developed a proprietary algorithmic ranking and scoring system to determine which insights are most important for a given dataset.
+The system prioritizes information based on:
+Data Structure in Adobe Customer Journey Analytics (CJA) – Insights that appear higher in the CJA workflow receive more emphasis.
+Relevance & Frequency—In slide generation, data points that appear multiple times across different analyses are given greater weight.
+Narrative Organization – The tool algorithmically arranges insights into a logical storytelling structure to ensure a smooth presentation flow.
+“Our ranking algorithm looks at the layout of the original Customer Journey Analytics project—content higher up is likely more important,” said Hoffswell. “We also prioritize values that frequently appear in the data.”
+ADVERTISEMENT
+Because the system is more rules-based and deterministic rather than relying on probabilistic AI models, it avoids common LLM issues such as hallucinated data or unpredictable outputs. It also allows enterprises to have greater transparency and control over how presentations are structured.
+What it means for the enterprise and decision-makers
+For CTOs, CIOs, team leaders and developer managers, Project Slide Wow represents a potential shift in how teams work with data visualization and presentations. Here’s what it means for enterprise-level decision-making:
+Greater Efficiency for Data Teams – Analysts and marketers can rapidly generate insights in presentation-ready formats, reducing the manual labor involved in building slides from scratch.
+Scalability for Large Organizations—By integrating directly into existing workflows, large enterprises can standardize the way customer insights are presented across departments.
+Data Integrity & Control – Unlike AI tools that create content based on unpredictable generative models, Project Slide Wow works within the enterprise’s existing datasets in CJA. This ensures data accuracy and minimizes compliance risks.
+Enhanced Collaboration Between Teams—By allowing presentations to be updated dynamically, multiple teams—such as marketing, analytics, and product development—can work with the latest insights in real time without duplicating efforts.
+Future Integration Potential – If Project Slide Wow becomes a full-fledged Adobe product, enterprise IT leaders may consider integrating it into their existing Microsoft 365 environments through the planned PowerPoint add-on.
+Will it become a full product?
+Adobe Sneaks is an annual showcase of experimental innovations. Around 40% of featured projects eventually become Adobe products.
+The fate of Project Slide Wow depends on user interest and engagement, as Adobe monitors social media conversations, customer feedback and direct inquiries to gauge demand.
+Eric Matisoff, Adobe’s Digital Experience Evangelist and host of Adobe Sneaks, highlighted that the program serves as a testing ground for cutting-edge ideas.
+“We start by scouring the company for hundreds of technologies and ideas…and whittle them down to the seven most exciting, entertaining, and forward-looking innovations,” Matisoff said.
+Looking ahead
+For businesses that rely on data-driven decision-making, Project Slide Wow could be a major step forward in simplifying the process of building presentations. If the tool gains traction, it may soon be available as an official Adobe product—potentially transforming how companies use customer data to inform strategy.
+Until then, CTOs, CIOs, team leads, and analysts should stay tuned for Adobe’s Sneaks announcements to see whether Project Slide Wow makes the leap from an experimental demo to a real-world enterprise solution.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

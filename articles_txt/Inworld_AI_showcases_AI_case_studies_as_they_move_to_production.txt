@@ -1,0 +1,124 @@
+The current AI ecosystem wasn’t built with game developers in mind. While impressive in controlled demos, today’s AI technologies expose critical limitations when transitioning to production-ready games, said Kylan Gibbs, CEO of Inworld AI, in an interview with GamesBeat.
+Right now, AI deployment is being slowed because game developers are dependent on black-box APIs with unpredictable pricing and shifting terms, leading to a loss of autonomy and stalled innovation, he said. Players are left with disposable “AI-flavored” demos instead of sustained, evolving experiences.
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+At the Game Developers Conference 2025, Inworld isn’t going to showcase technology for technology’s sake. Gibbs said the company is demonstrating how developers have overcome these structural barriers to ship AI-powered games that millions of players are enjoying right now. Their experiences highlight why so many AI projects fail before launch and more importantly, how to overcome these challenges.
+“We’ve seen a transition over the last few years at GDC. Overall, it’s a transition from demos and prototypes to production,” Gibbs said. “When we started out, it was really a proof of concept. ‘How does this work?’ The use case is pretty narrow. It was really just characters and non-player characters (NPCs), and it was a lot of focus on demos.”
+Now, Gibbs said, the company is focused on production with partners and large scale deployments and actually solving problems.
+Getting AI to work in production
+Inworld AI is working with partners like Nvidia and Streamlabs on AI.
+Earlier large language models (LLMs) were too costly to put in games. That’s because it could cost a lot of money to send a user’s query to AI out across the web to a datacenter, using valuable graphics processing unit (GPU) time. It sent the answer back, often so slowly that the user noticed the delay.
+One of the things that has helped with AI costs now is that the AI processing has been restructured, with tasks moving from the server to the client-side logic. However, that can only really happen if the user has a good machine with a good AI processor/GPU. Inference tasks can be done on the local machines, while harder machine learning problems may have to be done in the cloud, Gibbs said.
+ADVERTISEMENT
+“Where I think we’re at today is we actually have proof that the stuff works at huge scale in production, and we have the right tools to be able to do that. And that’s been a great and exciting transition at the same time, because we’ve now been focusing on that we’ve been able to actually uncover regarding the root challenges in the AI ecosystem,” Gibbs said. “When you’re in the prototyping demo mindset, a lot of things work really well, right? A lot of these tools like OpenAI, Anthropic are great for demos but they do not work when you go into massive, multi-million users at scale.”
+Gibbs said Inworld AI is focusing on solving the bigger problems at GDC. Inworld AI is sharing the real challenges it has encountered and showing what can work in production.
+ADVERTISEMENT
+“There are some very real challenges to making that work, and we can’t solve it all on our own. We need to solve it as an ecosystem,” Gibbs said. “We need to accept and stop promoting AI as this panacea, a plug and play solution. We have solved the problems with a few partners.”
+Gibbs is looking forward to the proliferation of AI PCs.
+“If you bring all the processing onto onto the local machine, then a lot of that AI becomes much more affordable,” Gibbs said.
+The company is providing all the backend models and efforts to contain costs. I noted that Mighty Bear Games, headed by Simon Davis, is creating games with AI agents, where the agents play the game and humans help craft the perfect agents.
+“Companions are super cool. You’ll see multi-agent simulation experiences, like doing dynamic crowds. If you’re if you are focused on a character based experience, you can have primary characters or background characters,” Gibbs said. “And actually getting background characters to work efficiently is really hard because when people look at things like the Stanford paper, it’s about simulating 1,000 agents at once. We all know that games are not built like that. How do you give a sense of millions of characters at scale, while also doing a level-of-detail system, so you’re maximizing the depth of each agent as you get closer to it.”
+AI skeptics?
+AI livestreams
+I asked Gibbs what he thought about the stat in the GDC 2025 survey, which showed that more game developers are skeptical about AI in this year’s survey compared to a year ago. The numbers showed 30% had a negative sentiment on AI, compared to 18% the year before. That’s going in the wrong direction.
+“I think that we’ve got to this point where everybody realizes that the future of their careers will have AI in it. And we are at a point before where everybody was happy just to follow along with OpenAI’s announcements and whatever their friends were doing on LinkedIn,” Gibbs said.
+People were likely turned off after they took tools like image generators with text prompts and these didn’t work so well in prodction. Now, as they move into production, they’re finding that it doesn’t work at scale. And so it takes better tools geared to specific users for developers, Gibbs said.
+“We should be skeptical, because there are real challenges that no one is solving. And unless we voice that skepticism and start really pressuring the ecosystem, it’s not going to change,” Gibbs said.
+The problems include cloud lock-in and unpredictable costs; performance and reliability issues; and a non-evolving AI. Another problem is controlling AI agents effectively so they don’t go off the rails.
+When players are playing in a game like Fortnite, getting a response in milliseconds is critical, Gibbs said. AI in games can be a compelling experience, but making it work with cost efficiency at scale requires solving a lot of problems, Gibbs said.
+As for the changes AI is bringing, Gibbs said, “There’s going to be a fundamental architecture change in how we build user-facing AI apps.”
+Gibbs said, “What happens is studios are building with tools and then they get a few months from production and they’re like, ‘Holy crap! This doesn’t work. We need to completely change our architecture.'”
+That’s what Inworld AI is working on and it will be announced in the future. Gibbs predicts that many AI tools will be quickly outdated within a matter of months. That’s going to make planning difficult. He also predicts that the capacity of third-party cloud providers will break under the strain.
+“Will that code actually work when you have four million users funneling through it?,” Gibbs said. “What we’re seeing is a lot of people having to go back and rework their entire code base from Python to C++ as they get closer to production.”
+Summary of partner demos
+Streamlabs’ architecture for bringing AI into workflow.
+At GDC, Inworld will be showcasing several key partner demos that highlight how studios of all sizes are successfully implementing AI. These include:
+Streamlabs: Intelligent Streaming Agent provides real-time commentary and production assistance.
+Wishroll: Showing off Status, a social media simulation game with unique AI-driven personalities.
+Little Umbrella: The Last Show, a web-based party game with witty AI hosting.
+Nanobit: Winked, a mobile chat game with persistent, evolving relationship building.
+Virtuos: Giving developers full control over AI character behaviors for a more immersive storytelling experience.
+Additionally, Inworld will feature two Inworld-developed technology showcases:
+On-device Demo: A cooperative game running seamlessly on-device across multiple hardware platforms.
+Realistic Multi-agent Simulation: Multi-agent simulation demonstrating realistic social behaviors and interactions.
+The critical barriers blocking AI games from production and real dev solutions 
+Kylan Gibbs is cofounder of Inworld AI and a speaker at our recent GamesBeat Next event.
+Below are seven of the key challenges that consistently prevent AI-powered games from making the leap from promising prototype to shipped product. Here’s how studios of all sizes used Inworld to break through these barriers and deliver experiences enjoyed by millions. 
+The real-time wall: Streamlabs Intelligent Agent
+The developer problem: Non-production ready cloud AI introduces response delays that break player immersion. Unoptimized cloud dependencies result in AI response times of 800 milliseconds to 1,200 milliseconds, making even the simplest interactions feel sluggish.
+All intelligence remains server-side, creating single points of failure and preventing true ownership, yet most developers can find few alternatives beyond this cloud-API-only AI workflow that locks them into perpetual dependency architectures.
+The Inworld solution: The Logitech G’s Streamlabs Intelligent Streaming Agent is an AI-driven co-host, producer, and technical sidekick that observes game events in real time, providing commentary during key moments, assisting with scene transitions, and driving audience engagement—letting creators focus on content without getting bogged down in production tasks.
+“We tried building this with standard cloud APIs, but the 1-2 second delay made the assistant feel disconnected from the action,” said the Streamlabs team. “Working with Inworld, we achieved 200 millisecond response times that make the assistant feel present in the moment.”
+Behind the scenes, the Inworld Framework orchestrates the assistant’s multimodal input processing, contextual reasoning, and adaptive output. By integrating seamlessly with third-party models and the Streamlabs API, Inworld makes it easy to interpret gameplay, chat, and voice commands, then deliver real-time actions—like switching scenes or clipping highlights. This approach saves developers from writing custom pipelines for every new AI model or event trigger.
+This isn’t just faster—it’s the difference between an assistant that feels alive versus one that always seems a step behind the action.
+The success tax: The Last Show
+The Last Show
+The developer problem: Success should be a cause for celebration, not a financial crisis. Yet, for AI-powered games, linear or even increasing unit costs mean expenses can quickly spiral out of control as user numbers grow. Instead of scaling smoothly, developers are forced to make emergency architecture changes, when they should be doubling down on success.
+The Inworld solution: Little Umbrella, the studio behind Death by AI, was no exception. While the game was an instant hit–reaching 20 million players in just two months – the success nearly bankrupted the studio.
+“Our cloud API costs went from $5K to $250K in two weeks,” shares their technical director. “We had to throttle user acquisition—literally turning away players—until we partnered with Inworld to restructure our AI architecture.”
+For their next game, they decided to flip the script, building with cost predictability and scalability in mind from day one. Introducing The Last Show, a web-based party game where an AI host generates hilarious questions based on topics chosen or customized by players. Players submit answers, vote for their favorites, and the least popular response leads to elimination – all while the AI host delivers witty roasts.
+The Last Show marks their comeback, engineered from the ground up to maintain both quality and cost predictability at scale. The result? A business model that thrives from success rather than being threatened by it.
+The quality-cost paradox: Status
+How can you be popular? Status knows.
+The developer problem: Better AI quality often correlates with higher costs, forcing developers into an impossible decision: deliver a subpar player experience or face unsustainable costs. AI should enhance gameplay, not become an economic roadblock.
+The Inworld solution: Wishroll’s Status (ranking as high as No. 4 in the App Store Lifestyle category) immerses players in a fictional world where they can roleplay as anyone they imagine—whether a world-famous pop star, a fictional character, or even a personified ChatGPT. Their goal is to amass followers, develop relationships with other celebrities, and complete unique milestones.
+The concept struck a chord with gamers and by the time the limited access beta launched in October 2024, Status had taken off. TikTok buzz drove over 100,000 downloads with many gamers getting turned away, while the game’s Discord community ballooned from a modest 100 users to 60,000 within a few days. Only two weeks after their public beta launch in February 2025, Status surpassed a million users. 
+“We were spending $12 to $15 per daily active user with top-tier models,” said CEO Fai Nur, in a statement. “That’s completely unsustainable. But when we tried cheaper alternatives, our users immediately noticed the quality drop and engagement plummeted.”
+Working with Inworld’s ML Optimization services, Wishroll was able to cut AI costs by 90% while improving quality metrics. “We saw how Inworld solved similar problems for other AI games and thought, ‘This is exactly what we need,'” explained Fai. “We could tell Inworld had a lot of experience and knowledge on exactly what our problem was – which was optimizing models and reducing costs.”
+“If we had launched with our original architecture, we’d be broke in days,” Fai explained. “Even raising tens of millions wouldn’t have sustained us beyond a month. Now we have a path to profitability.”
+The agent control problem: Partnership with Virtuos
+The developer problem: Even with sustainable performance benchmarks met, complex narrative games still require sophisticated control over AI agents’ behaviors, memories, and personalities to deliver deeply immersive and engaging experiences to gamers. Traditional approaches either lead to unpredictable interactions or require prohibitively complex scripting, making it nearly impossible to create believable characters with consistent personalities.
+The Inworld solution: Inworld is partnering with Virtuos, a global game development powerhouse known for co-developing some of the biggest triple-A titles in the industry like Marvel’s Midnight Suns and Metal Gear Solid Delta: Snake Eater. With deep expertise in world-building and character development, Virtuos immediately saw the need for providing developers with precise control over the personalities, behaviors, and memories of AI-driven NPCs. This ensures storytelling consistency and players’ choices to dynamically influence the narrative’s direction and outcome.
+Inworld’s suite of generative AI tools provides the cognitive core that brings these characters to life while equipping developers with full customization capabilities. Teams can fine-tune AI-driven characters to stay true to their narrative arcs, ensuring they evolve logically and consistently within the game world. With Inworld’s tools, Virtuos can focus on what they do best–creating rich, immersive experiences.
+“At Virtuos, we see AI as a way to enhance the artistry of game developers and accurately bring their visions to life,” said Piotr Chrzanowski, CTO at Virtuos, in a statement. “By integrating AI, we enable developers to add new dimensions to their creations, enriching the gaming experience without compromising quality. Our partnership with Inworld opens the door to gameplay experiences that weren’t possible before.”
+A prototype showcasing the best of both teams is in the works, and interested media are invited to stop by the Virtuos booth at C1515 for a private demo.
+The immersive dialogue challenge: Winked
+The developer problem: Nanobit’s Winked is a mobile interactive narrative experience where players build relationships through dynamic, evolving conversations, including direct messages with core characters. To meet player expectations, the player-facing AI-driven dialogue had to exceed what was possible even with frontier models — offering more personal, emotionally nuanced, and stylistically unique interactions. Yet, achieving the level of quality was beyond the capabilities of off-the-shelf models, and the high costs of premium AI solutions made scalability a challenge. 
+The Inworld solution: Using Inworld Cloud, Nanobit trained and distilled a custom AI model tailored specifically for Winked. This model delivered superior dialogue quality–more organic, personal, and contextually aware than off-the-shelf solutions—while keeping costs a fraction of traditional cloud APIs. The AI integrated seamlessly into Winked’s core game loops, enhancing user engagement while maintaining financial viability.
+Beyond improving player immersion, this AI-driven dialogue system remembers past conversations and carries the storyline forward, providing the player with relationships that evolve as chats progress. This in turn encourages players to engage in longer conversations and return more frequently as they grow closer to characters.
+The multi-agent orchestration challenge: Realistic multi-agent simulation
+The developer problem: Creating living, believable worlds requires coordinating multiple AI agents to interact naturally with each other and the player. Developers struggle to create social dynamics that feel organic rather than mechanical, especially at scale.
+The Inworld solution: Our Realistic Multi-agent Simulation demonstrates how to effectively orchestrate multiple AI agents into cohesive, living worlds using Inworld. By implementing sophisticated agent coordination systems, contextual awareness, and shared environmental knowledge, this simulation creates believable social dynamics that emerge naturally rather than through scripted behaviors.
+Whether forming spontaneous crowds around exciting in-game events, reacting to shared group emotes, or engaging in multi-character conversations, these autonomous agents showcase how proper agent orchestration enables emergent, lifelike behaviors at scale. This technical demonstration underscores the potential for deep player immersion and sustained engagement by bringing social hubs to life—where multiple characters interact with consistent personalities, mutual awareness, and collective response patterns that create the feeling of a truly living world.
+The hardware fragmentation challenge: On-device Demo
+The developer problem: AI features optimized for high-end devices fail on mainstream hardware, forcing developers to either limit their audience or compromise their vision. AI vendors also obscure critical capabilities required for on-device inference (distilled models, deep fine-tuning and distillation, runtime model adaptation) to maintain control and protect recurring revenue.
+The Inworld solution: While on-device is the key to a more scalable future of AI and games, AI hardware in gaming doesn’t have a one-size-fits-all solution. Ensuring consistent performance and accessibility for users on various devices can easily drive up complexity and cost. To achieve scalability, AI solutions must adapt seamlessly across diverse hardware configurations.
+Our on-device demo showcases an AI-powered cooperative gameplay running seamlessly across three hardware configurations:
+Nvidia GeForce RTX 5090
+AMD Radeon RX 7900 XTX
+Tenstorrent Quietbox
+This demo isn’t about theoretical compatibility; it’s about achieving consistent performance across diverse hardware, allowing developers to target the full spectrum of gaming devices without sacrificing quality.
+The development difference: Going beyond prototypes
+The gap between prototype and production is where most AI game projects collapse. While out-of-the-box plugins are useful for prototyping, they break under real-world conditions:
+Latency collapse: Cloud-dependent tools see response times balloon under load, breaking immersion and even gameplay
+Cost explosion: Per-token pricing creates financial cliff edges that make scaling unpredictable
+Reliability bottlenecks: Each external API call introduces a new potential point of failure
+Quality consistency: AI performance varies dramatically between test and production environments
+“We’ve watched incredible AI game prototypes die in the transition to production for four years now,” says Evgenii Shingarev, VP of Engineering at Inworld, in a statement. “The pattern is always the same: impressive demo, enthusiastic investment, then the slow realization that the economics and technical architecture don’t support real-world deployment.”
+At Inworld, we’ve worked relentlessly to close this prototype-to-production gap, developing solutions that address the real-world challenges of shipping and scaling AI-powered games—not just showcasing impressive demos. At GDC, Inworld is excited to share experiences that don’t just make it to launch, but thrive at scale, said Gibbs. The company’s booth is at C1615.
+Instead of talking about the future of gaming with AI, we’ll show the real systems solving real problems, developed by teams who have faced the same challenges you’re encountering, Gibbs said.
+The path from AI prototype to production is challenging, but with the right approach and partners who understand what it takes to ship AI experiences that players love, it’s absolutely achievable, Gibbs said.
+Session with Jim Keller of Tenstorrent: Breaking down AI’s unsustainable economics:
+Jim Keller, now head of Tenstorrent, is a legendary hardware engineer who headed important processor projects at companies such as Apple, AMD and Intel. He will be on a GDC panel with Inworld CEO Kylan Gibbs for a candid examination of AI’s broken economic model in gaming and the practical path forward:
+“Current AI infrastructure is economically unsustainable for games at scale,” said Keller, in a statement. “We’re seeing studios adopt impressive AI features in development, only to strip them back before launch once they calculate the true cloud costs at scale.”
+Gibbs said he is looking forward to talking with Keller on stage about Tenstorrent, which aims to serve AI applications at scale for less than 100 times the cost.
+The session will explore concrete solutions to these economic barriers:
+Dramatically cheaper model and hardware options
+Local inference strategies that eliminate API dependency
+Practical hybridization approaches that optimize for cost, performance, and quality
+Active learning systems that improve ROI over time
+Drawing on Keller’s deep hardware expertise from Tenstorrent, AMD, Apple, Intel, and Tesla and Inworld’s expertise in real-time, user-facing AI, we’ll explore how to blend on-device compute with large-scale cloud resources under one architectural umbrella. Attendees will gain candid insights into what actually matters when bringing AI from theory into practice, and how to build a sustainable AI pipeline that keeps costs low without sacrificing creativity or performance.
+Session details:
+Thursday, March 20, 9:30 a.m. – 10:30 a.m.
+West Hall, Room #2000
+For more details, visit the GDC page
+Session with Microsoft: AI innovation for game experiences
+Gibbs will also join Microsoft’s Haiyan Zhang and Katja Hofmann to explore how AI can drive the next wave of dynamic game experiences. This panel bridges research and practical implementation, addressing the critical challenges developers face when moving from prototypes to production.
+The session showcases how our collaborative approach solves industry-wide barriers preventing AI games from reaching players – focusing on proven patterns that overcome the reliability, quality, and cost challenges most games never survive.
+I asked how Gibbs could convince a game developer that AI is a train they can get on, and that it’s not a train coming right at them.
+“Unfortunately, there’s lots of other partners that we weren’t able to share publicly. A lot of the triple-A’s [are quiet]. It’s happening, but it requires a lot of work. We’re starting to engage with developers where the requirements are being creative. If they have a game that they’re planning on launching in the next year or two years, and they don’t have a clear line of sight on how to do that efficiently at scale or cost, we can work with them on that,” Gibbs said. “There is a fundamentally different ways that it can be structured and integrated into games. And we’re going to have a lot more announcements this year as we’re trying to make them more self serve.”
+Session details:
+Monday, March 17, 10:50 a.m. to 11:50 a.m.
+West Hall, Room #3011
+For more details, visit the GDC page
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

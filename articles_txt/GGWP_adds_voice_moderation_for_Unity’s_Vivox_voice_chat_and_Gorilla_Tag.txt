@@ -1,0 +1,29 @@
+GGWP, a brand safety platform for online communities, has added proactive voice moderation tools and been selected by Unity to be the safety partner of Vivox voice chat.
+On top of that, Another Axiom will use GGWP‘s voice moderation tools for its popular virtual reality game Gorilla Tag.
+212_Does marketing D2C work outside your mobile game.mp4
+GGWP’s comprehensive suite of tools is enhancing community experiences for Gorilla Tag and powering
+secure voice moderation with seamless integration for Unity’s Vivox customers worldwide.
+GGWP said it brings the most comprehensive communications safety suite to Vivox, delivering low-latency, tamper-proof voice moderation with seamless server-side integration for all Vivox customers.
+“This integration of GGWP’s tools with Vivox is an incredible value add for all Vivox tech users, and we’re thrilled to offer it to them. Vivox is the best-in-class communication solution and pairing it with the best-in-class voice moderation solution enables gaming communities to come together like never before,” said Scott Chapman, director of multiplayer services at Unity, in a statement. “The integration provides developers a one-stop solution for communication and moderation, helping developers focus their resources on building the core gameplay experience.”
+Dennis Fong is CEO of GGWP.
+Both existing and new Vivox users can deploy this technology into their games to reap the benefits of GGWP’s robust detection and moderation. GGWP’s context-aware AI analyzes communication across voice and text, providing a 360-degree view of the user’s positive and negative behavior.
+“Voice chat is a key aspect to online game experiences, and in some cases, it is the main form of interaction,” said GGWP founder and CEO Dennis Fong. “We are excited about our top tier partners joining us on our mission to deploy our voice solution in their toolkits and games. At GGWP our goal is to create awesome communities for brands and help their businesses thrive; and now with Voice, we are offering a complete end-to-end platform powered by AI and our expert services to model and maintain healthy communities.”
+The progress with voice chat screening is good for GGWP, considering it wasn’t first to market. Modulate score a high-profile deal with Activision for Call of Duty voice chat screening in 2023.
+ADVERTISEMENT
+Gorilla Tag is using GGWP’s voice chat moderation.
+“We didn’t offer voice moderation back in 2023 when Call of Duty was looking for a solution, so it wasn’t an option for us then.  We believe our voice moderation solution is best-in-class and always welcome being tested to compare our results with others,” Fong said in a message to GamesBeat.
+ADVERTISEMENT
+Recently, Another Axiom posted a blog detailing the steps that they’re taking to protect players
+in Gorilla Tag, which is built on Unity. As one of the most popular VR games with young
+audiences, GGWP’s platform and custom services will enable the developer to quickly respond
+to undesirable behavior and highlight positive interactions to continue creating a positive
+community. Since the players are in a VR environment, voice chat is a critical way that players
+interact; with GGWP’s support, Another Axiom can build a healthier and more fun experience for
+all.
+“Our community is evolving and growing, so the tools that we use to help maintain a fun, playful experience need to be cutting edge and work at-scale,” said Kerestell Smith, co-founder and CCO, Another Axiom, in a statement. “We’re committed to expanding Gorilla Tag’s place in popular culture and
+with the help of GGWP, we are excited to foster the best community experience for all Gorilla Tag players.”
+Asked what sets GGWP apart, Fong said, “GGWP is the only comprehensive solution in the market that provides moderation across text, voice, usernames, in-game actions, and Discord. This holistic approach is essential because players interact across multiple channels in game – if you’re only looking at voice, you’re likely missing important context about who and what was responsible for an incident.”
+Fong added, “We also combine a user’s history across all of those channels into a unified profile and reputation score.  This really enables moderators to work more efficiently without having to switch to different platforms mid-review.”
+Fong said the company has 40 customers to date, many of whom use the voice and complete platform. And he noted that the Unity / Vivox partnership means that GGWP will be able to reach Vivox’s massive customer base – at last count, they powered the voice chat for majority of multiplayer games today.
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

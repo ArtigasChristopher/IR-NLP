@@ -1,0 +1,49 @@
+Klang, the pioneering studio behind the ambitious simulation Seed, announced a strategic partnership with Google Cloud to bring its vision of a dynamic, AI-driven society to life.
+By using Google Cloud’s cutting-edge technologies, including Google Kubernetes Engine (GKE), Vertex AI, and Gemini model, Berlin-based Klang is creating a persistent, evolving virtual world inhabited by hundreds of thousands of autonomous virtual humans, known as Seedlings.
+104_Building games players actually want to PLAY - How Web3 is enabling new innovation and IP into the gaming space.mp4
+Seed is a groundbreaking massively multiplayer online (MMO) experience where AI-powered Seedlings live, interact, and evolve in real-time, even when players are offline. Klang Games is using Google Cloud’s AI tools to bring its society simulation game seed to life.
+Seedlings have a conversation in Klang Games’ Seed.
+Seed is an ambitious game simulating the future of humanity. At the end of the 21st century, humanity left Earth to find a new home. The planet Avesta in the Tau Ceti system was chosen for its many similarities to Earth. On this new lush planet, players are in charge of nurturing and guiding human inhabitants called “Seedlings” — each with a mind of their own.
+The player guides Seedlings by setting broad, strategic goals rather than micromanaging every moment of their day. This includes choosing educational paths and specializations—such as focusing on particular skill sets or fields—shaping their future careers and personal growth. Your influence also extends to relationships, purchases, housing, and décor, defining each Seedling’s aspirations even when you’re not online.
+A calendar system is currently under development to track major life events, making it simple to see what has happened or what’s coming up. Beyond that, you can talk directly with your Seedling about their experiences—like catching up with a friend or relative you haven’t seen in a while.
+Google Cloud’s infrastructure provides the scalability, performance, and reliability necessary to power Seed’s complex ecosystem, ensuring seamless growth and continuous operation.
+“We’re very excited and we’ve been running on the Google Cloud since the very start,” said Mundi Vondi, CEO of Klang, in an interview with GamesBeat.
+Berlin-based Klang Games got started with prototyping with a small team of four people back in 2016. They got some funding in 2017 and a larger round in 2019. Now the company has more than 100 people and the company hopes to have a soft launch later in 2025.
+ADVERTISEMENT
+A Seedling at work in Seed.
+“It’s in a pretty decent state right now. It’s playable,” Vondi said. “I think we have something really special here.”
+Jack Buser, global director for games at Google Cloud, said in an interview with GamesBeat that Klang Games has been ahead of the curve.
+“This is a sign of things that we see in development, but they are further along than most. We’ll be able to go into this GDC and show how far Seed has come and how they’re using Google Cloud to scale inference, things like that. It is a sign of the future,” Buser said.
+ADVERTISEMENT
+The company started with four people working on prototypes in 2016. They got funding in 2017 and kept growing, said Vondi.
+The company now has more than 100 people and it is aiming to launch into early access this year. And now the project has incorporated generative AI into the gameplay.
+“At Klang, we are building the largest simulation of humanity’s future ever attempted, with an
+unprecedented level of detail,” said Vondi. “From vast cities where every house can be furnished and fully operational, to Seedlings that behave, remember, learn, and grow with a level of fidelity like nothing we’ve seen before.”
+Vondi added, “It’s incredibly exciting to partner with Google Cloud, who is helping us build the technology to scale this vision beyond what was previously possible, connecting thousands, if not millions, of players.”
+Seedlings live their lives in Seed.
+Google Cloud’s technology enables Seed’s Seedlings to exhibit unique personalities, form relationships,
+and shape emergent societies through natural conversations and persistent interactions. Vertex AI and Gemini 2.0 allow for rich, nuanced character interactions, while GKE ensures the complex and ever-
+growing world scales seamlessly. Multi-region GKE clusters facilitate fast expansion of the game servers ensuring low latency and seamless transition between in-game zones to establish and maintain a scalable backbone for the massive, persistent online world with a large number of players.
+“Klang’s vision for Seed represents the cutting edge of interactive entertainment, and we’re thrilled that Google Cloud’s technology is empowering them to bring it to life,” Buser. “The scale and complexity of Seed demands a robust and innovative cloud infrastructure with state-of-the-art AI, and we’re proud to provide the technology and expertise necessary to support their ambitious journey.”
+“Seed requires a cloud platform that can handle the complexity of a continuously evolving society
+simulation,” said Oddur Magnusson, CTO of Klang. “Google Cloud with Vertex AI provide the
+performance, reliability, and AI capabilities we need to bring this ambitious vision to life.”
+The partnership also includes Google’s consulting and technical expertise to optimize generative AI
+solutions for cost and scalability, ensuring Seed delivers an unparalleled AI-powered, in-game
+experience.
+Living games
+Seedlings at the gym in Seed.
+This kind of game is what Buser had in mind when he predicted that AI would lead to “living games.”
+“We had several other data points that made it become clear that this was the direction that the industry is moving in and, as we stand here today, all that momentum’s coming for real,” Buser said.
+Vondi added, “It’s truly incredible what’s capable of doing that with AI. It’s really coming to life in a very exciting way.”
+Generative AI came along at the perfect time for Seed. Before, we would have relied on emojis and limited interactions like in The Sims, as genuine conversations between Seedlings and players weren’t possible. Now, with generative AI, the devs can provide each Seedling with their context – personality traits, needs, history, and aspirations—allowing them to hold conversations. Vondi said you can ask the nihilist to watch TV, but it may reply, “I will watch TV. Do not expect me to enjoy it.”
+The characters will be able to reference things from the backstory as their memories and they can use these memories in conversations with players.
+Buser said the game can scale as needed thanks to the backend infrastructure where the game can check a number of different AI models to see what will be the most relevant to use. Gemini 2.0 Flash delivers low-latency answers where time delays matter for inference at scale, Buser said. That’s where conversations are happening all over the place in the game.
+The landscape of Seed.
+“We will launch with some scale limitations but after we progress” it will get better, he said, in terms of doing AI processing on a large scale, Vondi said.
+Buser said a traditional online game will tap infrastructure such as gamer servers and services, databases and analytics tools.
+“What Klang is designing with Seed is truly just a fantastic example of a living game where you have an AI-native game design,” Buser said. We sat down for a conversation to see the vision that Klang had and how it meshed with the thinking we had done at Google Cloud. These things came together. It’s not often you have that kind of serendipity where the pieces fit together.”
+The more consumers buy AI PCs, the more it’s possible to offload work to local computers and further reduce the cost of AI.
+“We’ve done a lot of thinking at Google over the last couple years about building systems within GKE that can assist the game and knowing which workloads are going to work best on the cloud, and which workloads are going to work best on the edge by device,” Buser said. “It’s top of mind for a lot of developers. If you are operating a game and you want to run inference on device, but the device isn’t powerful enough, or perhaps you’re already running enough inference workloads on the device that it can’t take anymore, you might want to reroute that to the cloud.”
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

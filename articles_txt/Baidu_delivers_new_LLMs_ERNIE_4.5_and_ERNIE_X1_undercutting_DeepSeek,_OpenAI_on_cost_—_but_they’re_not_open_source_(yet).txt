@@ -1,0 +1,50 @@
+Over the weekend, Chinese web search giant Baidu announced the launch of two new AI models, ERNIE 4.5 and ERNIE X1, a multimodal language model and reasoning model, respectively.
+Baidu claims they offer state-of-the-art performance on a variety of metrics, besting DeepSeek’s non-reasoning V3 and OpenAI’s GPT-4.5 (how do you like the close name match Baidu chose as well?) on several third-party benchmark tests such as the C-Eval (assessing Chinese LLM performance on knowledge and reasoning across 52 subjects), CMMLU (massive multitask language understanding in Chinese), and GSM8K (math word problems).
+Navigating AI Regulations in Telecom - AI Impact Tour 2024
+It also claims to undercut the cost of both fellow Chinese wunderkind’s DeepSeek’s R1 reasoning model with ERNIE X1 by 50% and US AI juggernaut OpenAI’s GPT-4.5 with ERNIE 4.5 by 99%, respectively.
+Yet both have some important limitations, including a lack of open source licensing in the former case (which DeepSeek R1 offers) and a far reduced context compared to the latter (8,000 tokens instead of 128,000, frankly an astonishingly low amount in this age of million-token-plus context windows. Tokens are how a large AI model represents information, with more meaning more information. A 128,000-token window is akin to a 250-page novel).
+As X user @claudeglass noted in a post, the small context window makes it perhaps only suitable for customer service chatbots.
+Baidu posted on X that it did plan to make the ERNIE 4.5 model family open source on June 30th, 2025.
+Baidu has enabled access to the models through its application programming interface (API) and Chinese-language chatbot rival to ChatGPT, known as “ERNIE Bot” — it answers questions, generates text, produces creative writing, and interacts conversationally with users — and made ERNIE Bot free to access.
+ERNIE 4.5: A new generation of multimodal AI
+ADVERTISEMENT
+ERNIE 4.5 is Baidu’s latest foundation model, designed as a native multimodal system capable of processing and understanding text, images, audio, and video, and is a clear competitor to OpenAI’s GPT-4.5 model released back in February 2025.
+The model has been optimized for better comprehension, generation, reasoning, and memory. Enhancements include improved hallucination prevention, logical reasoning, and coding capabilities.
+According to Baidu, ERNIE 4.5 outperforms GPT-4.5 in multiple benchmarks while maintaining a significantly lower cost.
+The model’s advancements stem from several key technologies, including FlashMask Dynamic Attention Masking, Heterogeneous Multimodal Mixture-of-Experts, and Self-feedback Enhanced Post-Training.
+ERNIE X1: A deep-thinking reasoning model with tool use
+ADVERTISEMENT
+ERNIE X1 introduces advanced deep-thinking reasoning capabilities, emphasizing understanding, planning, reflection, and evolution.
+Unlike standard multimodal AI models, ERNIE X1 is specifically designed for complex reasoning and tool use, enabling it to perform tasks such as advanced search, document-based Q&A, AI-generated image interpretation, code execution, and web page analysis.
+The model supports a range of tools, including Baidu’s academic search, business information search, and franchise research tools. Its development is based on Progressive Reinforcement Learning, End-to-End Training integrating Chains of Thought and Action, and a Unified Multi-Faceted Reward System.
+Access and API availability
+Users can now access both ERNIE 4.5 and ERNIE X1 via the official ERNIE Bot website.
+For enterprise users and developers, ERNIE 4.5 is now available through Baidu AI Cloud’s Qianfan platform via API access. ERNIE X1 is expected to be available soon.
+Pricing for API Access:
+ERNIE 4.5:
+Input: $0.55 USD per 1 million tokens
+Output: $2.2 per 1M tokens
+ERNIE X1:
+Input: $0.28 per 1M tokens
+Output: $1.1 per 1M tokens
+Compare that to:
+GPT-4.5, which has a noticeably astonishingly high price through the OpenAI API of:
+Input: $75.00 per 1M tokens
+Output: $150.00 per 1M tokens
+DeepSeek R1
+Input: $0.55 per 1M tokens
+Output: $2.19 per 1M tokens
+Baidu has also announced plans to integrate ERNIE 4.5 and ERNIE X1 into its broader ecosystem, including Baidu Search and the Wenxiaoyan app.
+Considerations for enterprise decision-makers
+For CIOs, CTOs, IT leaders, and DevOps teams, the launch of ERNIE 4.5 and ERNIE X1 presents both opportunities and considerations:
+Performance vs. Cost – With pricing significantly lower than competing models, organizations evaluating AI solutions may see cost savings by integrating ERNIE models via API. However, further benchmarking and real-world testing may be necessary to assess performance for specific business applications.
+Multimodal and Reasoning Capabilities – The ability to process and understand text, images, audio, and video could be valuable for businesses in industries such as customer support, content generation, legal tech, and finance.
+Tool Integration – ERNIE X1’s ability to work with tools like advanced search, document-based Q&A, and code interpretation could provide automation and efficiency gains in enterprise environments.
+Ecosystem and Localization – As Baidu’s AI models are optimized for Chinese-language processing and regional knowledge, enterprises working in China or targeting Chinese-speaking markets may find ERNIE models more effective than global alternatives.
+Licensing and Data Privacy – While Baidu has indicated that GPT-4.5 will be made open source later this summer, June 30, 2025, that’s still three months away, so enterprises should at least wait until that time to assess whether it’s worth deploying locally or on US-hosted cloud services. Enterprise users should review Baidu’s policies regarding data privacy, compliance, and model usage before integrating these AI solutions.
+AI expansion and future outlook
+As AI development accelerates in 2025, Baidu is positioning itself as a leader in multimodal and reasoning-based AI technologies.
+The company plans to continue investing in artificial intelligence, data centers, and cloud infrastructure to enhance the capabilities of its foundation models.
+By offering a combination of powerful performance and lower costs, Baidu’s latest AI models aim to provide businesses and individual users with more accessible and advanced AI tools.
+For more details, visit ERNIE Bot’s official website.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

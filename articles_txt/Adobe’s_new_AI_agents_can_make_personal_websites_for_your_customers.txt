@@ -1,0 +1,35 @@
+Adobe first made its mark in generative AI with its Firefly image generation model in 2023 and its generative fill feature on Photoshop.
+With enterprise customers turning their attention from exploring AI-powered creation tools to agents, Adobe is throwing its hat in the agentic ring and adding more personalization features to everyday customer experience tasks. 
+Navigating AI Regulations in Financial Services - AI Impact Tour 2024Navigating AI Regulations in Financial Services - AI Impact Tour 2024
+Adobe announced the launch of 10 agents and an orchestration tool on its Adobe Experience platform. These tools target specific needs such as customer channel engagement, content production, data management and site optimization. 
+The company also debuted Brand Concierge, a way for organizations to personalize their websites for customers based on their previous interactions with the brand. 
+Loni Stark, vice president of strategy and product for Adobe, told VentureBeat in an interview that agents would change the customer experience for both the enterprise and their clients.
+“We see that agents can scale up the capacity of experience makers. It’s not just because of the hype out there, but because when we have delivered our tools to the customers we work with, we see that as their trust in the AI capabilities we deliver increases, they start to think, oh, can I make them autonomous,” Stark said. 
+She added the idea is to let these agents work ambiently, meaning the agents and the orchestrator continue to work in the background to provide information or solve issues for enterprises proactively. 
+Orchestration and agents for customer experience
+The new agents launching on AEP are:
+Account qualification agent to evaluate new sales pipelines
+Audience agent, which analyzes cross-channel engagement data to 
+Content production agent that helps marketers and creatives scale by generating and assembling content  
+Data insights agent simplifies and expands the process of deriving insights from signals  
+Data engineering agent  
+Experimentation agent helps stimulate new ideas and conduct impact analysis  
+Journey agent can orchestrate cross-channel experiences 
+Product advisor agent recommends experience and product engagement experiments  
+Site optimization agent manages and detects traffic and engagement in a website 
+Workflow optimization agent for cross-team collaboration and monitoring ongoing projects
+ADVERTISEMENT
+Stark highlighted the Site Optimization agent during a demo with VentureBeat. The agent would check for broken links or proactively examine a brand’s website for traffic and bounce rates and suggest fixes. 
+“Most companies don’t have people that spend all of their days looking at broken links, for example, especially if they have tens of thousands of pages, or can’t check on these daily,” Stark said. “What’s happening is that there’s lost opportunity both if you think about the bounce rate. This agent is pre-trained, so out of the box, it already comes with skills like looking for broken backlinks.”
+Stark said enterprises using the Experience Platform can fine-tune how much agents access their data through the orchestrator.
+ADVERTISEMENT
+Adobe joins companies like Salesforce and ServiceNow in providing users with pre-built agents for specific tasks and teams.  Source: Adobe
+A customized brand website
+Another new feature for the Adobe Experience Platform is Brand Concierge, which will help enterprises build websites that offer customized customer visits. Organizations can create a website for their company or product that greets customers by name and provides a query box asking them what information they want. 
+Source: Adobe
+Say a company has a website for a hotel chain. A customer can ask the chat function or click on premade prompts to ask about amenities specific to one location, Brand Concierge helps the company push the appropriate information to the front page of the site and also customize all other assets and experiences to that location. Stark said customers can still browse the site as usual, but Brand Concierge pushes customer engagement further by remembering how particular customers have interacted with the enterprise before. 
+Brand Concierge is a separate offering from the agents that sits on top of the AEP, but Stark said, “It’ll leverage agents such as the Product Advisor Agent, which is already built into the Concierge app.” The company also understands its customers’ past interactions and preferences. 
+Stark said Adobe customers increasingly find their clients more comfortable using AI chatbots, making it easier to transition them to more personalized, prompt-based website experiences. 
+“I think what we’re seeing is that consumers are increasingly comfortable with an AI-powered conversational experience. New Adobe Analytics data shows a 1,200% surge in U.S. retail sites and a 1,700% surge in U.S. travel sites (July 2024 to Feb. 2025) from generative AI sources. Companies can surface this on high-traffic properties (like their website) with an increasingly familiar form factor that is gaining traction,” Stark said. 
+The company launched the Adobe Experience Platform in 2019, but the real-time customer experience management solution saw a massive update last year, including an AI assistant for users.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

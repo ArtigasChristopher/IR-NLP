@@ -1,0 +1,49 @@
+For centuries, St. Peter’s Basilica in the Vatican has stood as one of the world’s most awe-inspiring landmarks—home to breathtaking art, architecture, and stories that have shaped history.
+Now, for the first time ever, students can step inside this legendary building and take on the role of its caretakers in Peter Is Here: AI for Cultural Heritage, a brand-new Minecraft Education learning experience created in collaboration with Microsoft and the Vatican. Part of the hands-on restoration used AI.
+104_Building games players actually want to PLAY - How Web3 is enabling new innovation and IP into the gaming space.mp4
+Peter is Here invites students to explore St. Peter’s Basilica through interactive gameplay that blends history, artificial intelligence (AI) tools, and creative problem-solving. Learners will travel through time to uncover the rich history of St. Peter’s Basilica while taking on hands-on restoration tasks as part of the Sanpietrini, the dedicated team responsible for maintaining St. Peter’s.
+They’ll meet historical figures, investigate key artifacts, and use simulated AI tools. Educators can bring this world into the classroom with supplementary materials that explain the history of St. Peter’s Basilica and how it’s being digitally preserved with the help of AI. Whether repairing ancient mosaics, reinforcing Renaissance architecture, or ensuring Bernini’s iconic Baldachin stands tall, students will actively participate in the preservation of cultural heritage— all within the blocky world of Minecraft.
+This project shows us how technology—especially AI—can help us keep historic places intact for future generations. This Minecraft experience is part of a collaboration between the Vatican, Iconem, and Microsoft to make St. Peter’s Basilica accessible to anyone, preserving the iconic church using digital technology.
+The project started with the creation of an AI-enhanced digital twin using advanced photogrammetry techniques and AI. Microsoft’s AI for Good Lab supplied the tech needed to process and analyze the photogrammetry data they collected. To extend this immersive learning experience into classrooms, Microsoft and the Vatican teamed up with Minecraft Education to create Peter Is Here.
+Hands-On Restoration Using AI
+Peter Is Here offers two distinct gameplay paths, making it perfect for educators looking to integrate history, art, STEM, and digital literacy into their lessons. They begin in ‘Restoration Mode’ where they take on the role of the Sanpietrini, the dedicated team responsible for preserving St. Peter’s Basilica.
+By beginning with restoration, students gain a hands-on understanding of cultural preservation, then see how these efforts shape St. Peter’s Basilica as they venture through its grand halls. This learning path challenges players to repair key sections of the Basilica across four distinct historical eras:
+ADVERTISEMENT
+The Vatican Obelisk (75 AD)
+St. Peter’s Tomb (400 AD)
+The Rotunda Column (1546 AD)
+Bernini’s Baldachin (1626 AD)
+In Restoration Mode, students actively restore St. Peter’s Basilica using AI tools, making real-time decisions that provide historical insights and unlock new areas for exploration, transforming them into active preservers of cultural heritage.
+Hands-On Problem Solving: Students use simulated AI tools like block scanners and
+retrievers to assess damage and identify which parts of the structure need repair.
+Real-Time Decision Making: Every restoration decision has a visible impact on the
+Basilica’s appearance. As players replace broken blocks or reinforce aging structures,
+they see firsthand how their actions help restore this historic landmark.
+Historical Context: Each restoration task is set within a specific era, providing insights
+into the architectural styles and construction methods of the time. This context enriches
+the restoration process and highlights the evolution of cultural heritage over centuries.
+Unlocking Exploration: Once a restoration task is completed, it not only revitalizes the
+Basilica but also unlocks further areas for exploration. This seamless transition from
+restoration to discovery reinforces the connection between preserving the past and
+engaging with its history.
+Exploring History in an Immersive World
+After completing restoration, students can enter the ‘Exploration Mode’ path where they become inquisitive historians exploring the grand halls and hidden secrets of the fully restored St. Peter’s Basilica. Students navigate the building using tools like the Smart Compass to fast-travel and set waypoints, engaging with interactive collectibles and in-world NPCs that reveal detailed historical narratives. Their journey transforms them into active historians and curious explorers.
+ADVERTISEMENT
+Immersive Discovery: Students roam freely, interacting with intricate architectural
+details and unlocking secret areas that reveal hidden artifacts and cultural insights.
+Interactive Encounters: Engaging dialogues with figures like Michelangelo and Bernini
+provide contextual perspectives that bring the Basilica’s past to life.
+Contextual Learning: Each explored area reflects the architectural styles and cultural
+influences of its era, deepening students’ understanding of the building’s evolution.
+Unlocking Secrets: As players gather collectibles and interact with the environment,
+additional areas become accessible, seamlessly connecting restoration with discovery.
+Students are invited to document their learnings using the Book and Quill tool in Minecraft Education, draw parallels with other historic landmarks, and share their findings with peers, ultimately transforming them from passive observers into active protectors of cultural heritage.
+Bringing Peter Is Here to Your Classroom
+The Peter is Here lesson and immersive world connect social studies with modern technology. Students explore simulated AI tools like the scanner that mirror real-world digital imaging and 3D modeling techniques used by preservationists and in fields such as medicine, environmental science, and urban planning.
+In addition to the in-game experience, educators can download a classroom-ready PowerPoint for structured instruction and student workbooks that deepen engagement and contextual understanding of each restoration site. These resources ensure educators can seamlessly integrate historical insights, AI concepts, and reflective prompts into their lesson—making every step of the Basilica’s restoration meaningful and aligned with classroom objectives.
+Upon completing the entire journey, students receive an official certificate celebrating their
+accomplishments, underscoring the real-world impact of their newly acquired skills and recognizing them as honorary preservers of cultural heritage.
+By placing restoration work at the heart of Peter is Here, students become active stewards and conservationists, offering a glimpse into our shared responsibility to safeguard cultural treasures and the opportunity of AI tools to support this ongoing work. Watch your students discover how AI-driven restoration can illuminate centuries of human creativity—one block at a time.
+Peter is Here is available for all licensed users in the Minecraft Education lesson library. Anyone can access a trial version of Minecraft Education for free by downloading the application and logging in with your Office 365 or Microsoft 365 Education accounts.
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

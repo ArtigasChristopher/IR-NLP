@@ -1,0 +1,41 @@
+Graphics processing units (GPUs), the expensive computer chips made by companies like Nvidia, AMD, and Sima.ai, are no longer the only way to train and deploy artificial intelligence.
+Biological Black Box (BBB), a Baltimore-founded startup developing a new class of AI hardware, has emerged from stealth with its Bionode platform—a computing system that integrates living, lab-grown neurons with traditional processors.
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+The company, which has been operating quietly while filing patents and refining its technology, believes its biological computing approach — growing new neurons specifically to act as computer chips using donor human stem cells and rat-derived cells — could offer a low-power, adaptive alternative to conventional GPUs.
+“Over the last 20 years, three independent fields—biology, hardware, and computational tools—have advanced to the point where biological computing is now possible,” said Alex Ksendzovsky, BBB’s co-founder and CEO, in a video call interview with VentureBeat.
+A member of Nvidia’s Inception incubator, BBB is positioning itself as an advancement and augmentation to the dominant silicon-based AI chips that Nvidia and others produce.
+By leveraging neurons’ ability to physically rewire themselves, the company aims to reduce energy costs, improve processing efficiency, and accelerate AI model training—challenges that have become increasingly urgent as AI adoption expands.
+This isn’t sci-fi, despite the incredible premise: BBB’s neural chips are already powering computer vision and LLMs for customers. The company has entered talks with two partners to license its tech for computer vision apps—though the company declined to name its customers and partners specifically, citing confidentiality agreements. It is also accepting inquiries from prospective partners and clients on its website.
+Blending biology and hardware
+At the core of BBB’s approach is the Bionode platform, which uses lab-grown neurons wired into computing systems.
+“We have multiple models that we use,” Ksendzovsky told me. “One of those models is from rat cells. One of those models is from actually human stem cells that are converted into neurons.”
+ADVERTISEMENT
+The co-founder said that “hundreds of thousands of them” are integrated into a dish containing 4,096 electrodes, which forms the basis of one Bionode chip. He also said they live for over a year before needing to be replaced.
+The idea is to harness neurons’ natural adaptability for AI processing, creating a hybrid computing system that differs fundamentally from today’s rigid, transistor-based chips.
+Microscopic image of BBB neural compute cell with information flowing through it. Credit: BBB
+ADVERTISEMENT
+Ksendzovsky, who has been working with neurons on electrodes since 2005, originally considered using them to predict the stock market. His mentor, Steve Potter, dismissed the idea at the time.
+“Why aren’t we using neurons to predict the stock market so we can all be rich?” Ksendzovsky recalled asking Potter, who laughed it off as impractical. “At the time, he was right,” Ksendzovsky admitted.
+Since then, improvements in electrode technology, computational tools, and neuron longevity have made biological computing viable. “The biological network has evolved over hundreds of millions of years into the most efficient computing system ever created,” Ksendzovsky explained.
+This setup offers two immediate advantages:
+• More Efficient Computer Vision: Bionode has been tested as a pre-processing layer for AI classification tasks, reducing both inference times and GPU power consumption.
+• Accelerated Large Language Model (LLM) Training: Unlike GPUs, which require frequent retraining cycles, neurons adapt on the fly. This could significantly reduce the time and energy needed to update large language models (LLMs), addressing a key bottleneck in AI scaling.
+“One of our biggest breakthroughs is using biological networks to train LLM’s more efficiently, reducing the massive energy consumption required today,” Ksendzovsky said.
+Building a viable, living GPU with Nvidia’s help
+Nvidia’s GPUs have been instrumental in AI’s rapid advancement, but their high energy consumption and increasing cost have raised concerns about scalability.
+BBB sees an opportunity to introduce a more power-efficient alternative while still operating within Nvidia’s ecosystem.
+“We don’t see ourselves as direct competitors to Nvidia, at least in the near future,” Ksendzovsky noted. “Biological computing and silicon computing will coexist. We still need GPUs and CPUs to process the data coming from neurons.”
+In fact, according to the co-founder, “we can use our biological networks to augment and improve silicon-based AI models, making them more accurate and more energy-efficient.”
+He argued that the long-term vision for AI hardware will be a modular ecosystem in which biological computing, silicon chips, and even quantum computing each play a role.
+“The future of computing will be a modular ecosystem where traditional silicon, biological computing, and quantum computing each play a role based on their strengths,” he said.
+Although BBB has yet to disclose a commercial launch date, the company is relocating from Baltimore, Maryland, to the Bay Area as it prepares to scale its technology.
+The future of hybrid AI processing
+While silicon-based GPUs remain the industry standard, BBB’s brain-on-a-chip concept presents a glimpse into a future where AI hardware is no longer limited to transistors and circuits.
+The ability of neurons to reconfigure themselves dynamically could enable AI systems that are more energy-efficient, adaptive, and capable of continuous learning.
+“We’re already applying biological computing to computer vision. We can encode images into a biological network, let neurons process them, and then decode the neural response to improve classification accuracy,” Ksendzovsky said.
+Beyond efficiency gains, BBB also believes that its biological approach can provide deeper insight into how AI models process data.
+“We’ve built a closed-loop system that allows neurons to rewire themselves, increasing efficiency and accuracy for AI tasks,” he explained.
+Despite the potential, Ksendzovsky acknowledges that ethical considerations will be an ongoing discussion. BBB is already working with ethicists and regulatory experts to ensure its technology is developed responsibly.
+“We don’t need millions of neurons to process the entire environment like a brain does. We use only what’s necessary for specific tasks, keeping ethical considerations in mind,” he emphasized.
+BBB is betting that living tissue, not just silicon, could be the key to AI’s next leap forward.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

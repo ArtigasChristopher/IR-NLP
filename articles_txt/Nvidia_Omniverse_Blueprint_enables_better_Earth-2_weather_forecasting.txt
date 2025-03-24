@@ -1,0 +1,32 @@
+Nvidia announced the Nvidia Omniverse Blueprint for Earth-2 weather analytics to accelerate the development of more accurate weather forecasting.
+Climate-related weather events have had a $2 trillion impact on the global economy over the last decade, the company said. The new Omniverse Blueprint equips users with the latest technologies to help global organizations improve risk management and disaster preparedness.
+Navigating AI Regulations in Telecom - AI Impact Tour 2024
+The Nvidia Omniverse Blueprint for Earth-2 weather analytics offers reference workflows — including Nvidia GPU acceleration libraries, a physics-AI framework, development tools and microservices — to help enterprises go from prototyping to production with weather forecast models.
+The company unveiled the news during the keynote speech of Jensen Huang, CEO of Nvidia, at the GTC 2025 event. Earth-2 is a big technological achievement when it comes to predicting the weather, but it’s also a representation of the kind of resources it would take to create an Earth-size metaverse, or simulation environment that is just like the real world. In that way, it interesting to more than just weather people.
+In his speech, Huang said, “This is one of the biggest things that has happened in the last year. We have made it possible for every important CAE software to be accelerated. This is just a sample of the libraries made possible by CUDA.”
+Easy-to-deploy Nvidia NIM microservices for Nvidia Earth-2 are also part of the blueprint, including CorrDiff for downscaling and FourCastNet for predicting global atmospheric dynamics of various weather and climate variables. These are already being used by weather technology companies, researchers and government agencies to derive insights and mitigate risk from extreme weather events.
+“We’re seeing more extreme weather events and natural disasters than ever, threatening lives and property,” said Huang. “The Nvidia Omiverse Blueprint for Earth-2 will help industries around the world prepare for — and mitigate — climate change and weather-related disasters.”
+Ecosystem support
+Earth-2 at Nvidia’s GTC 2024 event.
+Industry-leading climate tech companies including AI company G42, JBA Risk Management, Spire and others are using the blueprint to develop unique AI-augmented solutions.
+When combined with proprietary enterprise data in the $20 billion climate tech industry, the Nvidia Earth-2 platform helps developers build solutions that deliver warnings and updated forecasts in seconds rather than minutes or hours with traditional CPU-driven modeling.
+ADVERTISEMENT
+G42 is integrating various components of the Omniverse Blueprint with its own AI-driven forecasting models for Earth-2 to provide the UAE’s National Center of Meteorology with AI technologies for advanced weather forecasting and disaster management.
+“G42 is advancing AI-powered forecasting to help governments and enterprises strengthen resilience against extreme weather in a rapidly changing world,” said Andrew Jackson, CEO of Inception, a G42 company. “Using high-resolution weather and climate modeling, we are transforming how organizations anticipate and respond to severe weather conditions with precision and speed. Building on Nvidia’s CorrDiff model, we have developed a custom AI-driven system that downscales coarse weather data into hyper-local forecasts, enabling faster predictions at an unprecedented scale. Combined with the Earth-2 Blueprint, this technology equips decision-makers with actionable intelligence to protect communities, safeguard infrastructure and plan for a more resilient future.”
+ADVERTISEMENT
+Spire Global used AI components from the blueprint as reference to develop new AI products that integrate its proprietary satellite data and deliver medium-range and sub-seasonal forecasts out to 45 days. Powered by Nvidia GPUs and the Omniverse Blueprint for Earth-2, Spire’s models run 1,000 times faster than traditional physics-based models, enabling large ensemble forecasts that capture the full range of possible weather outcomes.
+In addition to the Central Weather Administration of Taiwan and The Weather Company, other companies adopting or exploring Earth-2 include 3D mapping company Ecopia AI, spatial analytics company ESRI, green-energy company GCL Power, flood risk management company JBA Risk Management, aerospace company OroraTech, and Tomorrow.io, a leading resilience platform powered by proprietary space data and weather intelligence.
+Groundbreaking generative AI for climate tech
+Nvidia’s Earth-2 software will simulate the planet’s climate.
+The Earth-2 platform offers tools, microservices and an array of state-of-the-art AI weather models for visualizing and simulating the globe.
+CorrDiff, part of the Omniverse Blueprint, is available as an Nvidia NIM microservice. Compared to CPUs, it can be 500 times faster and 10,000 times more energy-efficient in delivering high-resolution numerical weather prediction methods, Nvidia said.
+The Omniverse Blueprint for Earth-2 allows independent software vendors to develop and deploy AI-augmented solutions and use observational data to make their solutions faster and more accurate.
+Esri, the market leader in geospatial software, is collaborating with NVIDIA to connect its ArcGIS platform to Earth-2 through the blueprint. OroraTech is exploring connecting its data platform to the Omniverse Blueprint for Earth-2.
+Tomorrow.io contributed its near-real-time proprietary satellite data to help create an NVIDIA digital twin of Earth for next-generation AI model training, inference and reinforcement.
+A key component of the new blueprint is Nvidia Omniverse, a platform for developing OpenUSD-based 3D workflows and applications. The Omniverse Blueprint for Earth-2 showcases how developers can use Omniverse software development kits and microservices to build Nvidia RTX-powered visualization pipelines for rendering geospatial and weather data.
+Nvidia DGX cloud-powered compute
+Nvidia’s Earth-2 will be a digital twin of the planet.
+The Omniverse Blueprint for Earth-2 taps into the Nvidia DGX Cloud platform to demonstrate full-stack acceleration for AI-augmented weather forecasting.
+Running on Nvidia DGX GB200, Nvidia HGX B200 and Nvidia OVX supercomputers, the blueprint provides a path to simulating and visualizing the global climate simulations at exceptional speed and scale.
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

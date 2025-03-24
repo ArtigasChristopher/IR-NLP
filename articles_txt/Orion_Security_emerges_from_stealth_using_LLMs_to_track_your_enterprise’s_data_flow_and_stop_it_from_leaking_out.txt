@@ -1,0 +1,53 @@
+If you pay attention at all to cybersecurity news, there’s a strong chance you’ve heard scary reports of firms hiring remote contractors that turn out to be hackers or North Korean spies making off with sensitive, proprietary data.
+But even without that cloak-and-dagger, international espionage veneer, the truth is that all organizations have reasons to be concerned about their data security and the prospect of “exfiltration,” or the movement of data without authorization. IBM’s 2024 Cost of a Data Breach Report found that incidents involving data exfiltration are now on the rise extortion now average around $5.21 million per incident.
+Navigating AI Regulations in Financial Services - AI Impact Tour 2024
+Credit: IBM, “Cost of a Data Breach Report 2024”
+In an age when data has never been more important or valuable to an organization — yet is also moving around between siloes more than ever before — how can enterprises best protect their sensitive information without breaking the bank?
+A new firm, Orion Security, believes generative AI large language models are the key. Today, the company announced its emergence from stealth with $6 million in seed funding led by Pico Partners and FXP, with participation from Underscore VC and prominent cybersecurity leaders, such as the founders of Perimeter 81 and the CISO of Elastic.
+Orion Security, founded by Nitay Milner (CEO) and Yonatan Kreiner (CTO), is already working with leading technology companies to help them safeguard sensitive business data from insider threats, according to an interview VentureBeat conducted with Milner over video call last week.
+Orion’s co-founders Nitay Milner (CEO) and Yonatan Kreiner (CTO).
+ADVERTISEMENT
+“I spent a lot of years as a product leader in several companies solving very complicated challenges around observability and security in cloud environments, helping T-Mobile and BlackRock to get ahold of, and better understand, their very complex system stacks,” Milner said. “I experienced firsthand that the main problem in data security is understanding the business context of how sensitive data is being used in a company.”
+AI-powered Contextual Data Protection (AI CDP)
+Unlike traditional data protection tools that rely on rigid rules and manual policies, Orion Security’s platform dynamically learns and maps an organization’s business processes.
+By understanding how data typically moves within an organization, Orion can distinguish between legitimate workflows and potential threats, whether intentional or accidental.
+ADVERTISEMENT
+“Orion revolutionizes data protection by understanding business processes and data flows in the company and automating data loss prevention with the power of AI,” Milner explains.
+This approach is a departure from conventional manual policy-based security models, which Milner believes are fundamentally flawed.
+“Most security solutions rely on manual policies, but policies don’t scale. There are new applications and workflows that make them obsolete pretty often.”
+He further emphasized how security teams struggle with outdated methods: “Security teams are stuck writing endless policies over and over again, getting hit by false positives, and still, data keeps leaking from enterprises. It’s a really bad situation.”
+Orion Security employs a combination of proprietary AI models and fine-tuned open-source LLMs to automate data protection.
+“All our AI is something that we developed… we’re not using a third party, like ChatGPT or something like that. We developed our AI internally, so it’s all our IP,” he told VentureBeat.
+The platform relies on two core models: one for classification, which identifies how sensitive data is based on context, and another for business reasoning, which assesses user roles, workflows, and typical data movement to detect anomalies.
+Orion’s AI is further fine-tuned on industry-specific and organization-specific data to improve accuracy, ensuring it adapts to each company’s unique operations.
+While they leverage fine-tuned open-source LLMs, Milner notes their surprising effectiveness even without extensive pre-training, saying, “LLMs that are open source… have a lot of context, and you wouldn’t believe the level they give you just by throwing sensitive data on them.”
+How Orion’s solution works
+The platform connects to an organization’s cloud services, browsers, and devices to map data flows comprehensively.
+At the core of its detection capabilities is its Indicators of Leakage (IOL) engine, which leverages proprietary reasoning models and large language model (LLM) classification to analyze data movement patterns.
+Key features include:
+Real-time risk assessment: The platform continuously evaluates business processes, assigning risk scores based on observed behavior.
+Sensitive data detection: Orion identifies and classifies data types, including personally identifiable information (PII), trade secrets, payroll details, and intellectual property (IP).
+Minimal manual configuration: Unlike traditional DLP tools that require extensive setup, Orion automates detection and response with minimal user intervention.
+Reduced false alerts: By incorporating business context, Orion ensures that security teams are only alerted to genuinely suspicious activity, cutting down on noise and unnecessary investigations.
+Milner compares Orion’s approach to endpoint detection and response (EDR) solutions, but for data protection. “We act as an EDR for data—think of it like a CrowdStrike for your data. If something anomalous happens, we catch and prevent it in real-time, even if there wasn’t a predefined policy.”
+Beyond catching malicious insiders, Orion also distinguishes between human errors and external attackers. “The three main vectors for data leaks are malicious insiders, human errors, and external attackers. We detect and differentiate between all of them,” Milner says.
+Enterprise leaders can see the flow of their firm’s data at a glance
+Orion Security provides users with a dashboard-driven experience, offering real-time insights into business data flows. The interface categorizes risk by severity, allowing security teams to quickly identify and address high-risk activities.
+Some notable elements of Orion’s UI include:
+Top Data Types Monitored: The system classifies and tracks PII, marketing materials, product-related data, and source code.
+Risk Score Distribution: A visual breakdown of critical, high, medium, and low-risk activities helps prioritize security responses.
+Top Outbound Sources: Displays the most common platforms where data is being transferred, helping security teams detect unusual exfiltration patterns.
+Business Flow Risk Scores: Each monitored business process is assigned a risk score, with specific activities (e.g., “Engineering teams moving data before leaving the company”) flagged based on severity.
+This intuitive approach to data security allows security teams to quickly assess potential threats and take immediate action when necessary.
+Milner described the platform’s visibility capabilities thusly: “Imagine having a dynamic map of all the sensitive data movement in your company—between people, devices, and applications—and making sure it doesn’t leave your organization.”
+High investor confidence
+Backing from cybersecurity veterans further reinforces Orion’s approach. Gil Zimmermann, Partner at FXP, who previously co-founded CloudLock (acquired by Cisco), sees Orion’s technology as a long-overdue evolution in data protection:
+“AI is creating a watershed moment for data protection, and Orion Security is at the forefront of this transformation,” he wrote in a prepared statement in a press release provided to VentureBeat. “Orion’s AI-powered approach solves the core challenges we faced for years — the lack of business context and overwhelming manual work. This is the future of data security we envisioned but which couldn’t be built a decade ago.”
+Beyond detection, Orion offers flexibility in response mechanisms, letting companies customize their approach.
+“Some companies want us to block data exfiltration in real-time, while others prefer just getting notifications or educating employees on security policies. We let them decide how aggressive the approach should be,” Milner said.
+What’s next for Orion Security and its tech?
+Orion Security is already working with leading technology companies (confidential due to business agreements) and plans to further refine its AI models to stay ahead of evolving insider threats.
+The company’s onboarding process ensures customers see immediate value. “We take three months of historical data when onboarding a new customer, so our AI delivers value from day one,” Milner explains.
+Additionally, Orion emphasizes privacy-first security architecture. “We don’t store any sensitive data—only metadata. If a company prefers, they can even install our classifier in their own environment so nothing leaves their systems,” Milner says.
+With an AI-driven approach that reduces manual workload, false positives, and security blind spots, Orion Security is well-positioned to shape the next generation of context-aware data protection solutions.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

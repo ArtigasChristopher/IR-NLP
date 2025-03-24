@@ -1,0 +1,39 @@
+Global payments giant Visa operates in 200-plus countries and territories, all with their own unique, complex rules and regulations. 
+Its client services team must understand those nuances when policy-related questions come up — like ‘are we allowed to process this type of payment in this country?’ — but it’s simply not humanly possible to know all those answers top-of-mind. 
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+This means they’ve typically had to track down relevant information manually — an exhaustive process that can take days depending on how accessible it is. 
+When generative AI emerged, Visa saw this as a perfect use case, applying retrieval-augmented generation (RAG) to not only pull out information up to 1,000X faster, but cite it back to its sources. 
+“First of all, it’s better quality results,” Sam Hamilton, Visa’s SVP of data and AI, told VentureBeat. “It’s also latency, right? They can handle a lot more cases than they were able to before.”
+This is just one way Visa is using gen AI to enhance its operations — supported by a deliberately-built, tiered tech stack — while managing risk and keeping fraud at bay. 
+Secure ChatGPT: Visa’s protected models
+November 30, 2022, the day ChatGPT was introduced to the world, will go down in history as a pivotal moment for AI. 
+Not long thereafter, Hamilton noted, “employees at Visa were all asking, ‘Where is my chatGPT?’ ‘Can I use ChatGPT?’ ‘I don’t have access to ChatGPT.’ ‘I want ChatGPT.’”
+However, as one of the world’s largest digital payments providers, Visa naturally had concerns about its customers’ sensitive data — specifically, that it remained secure, out of the public domain and wouldn’t be used for future model training.  
+To meet employee demand while balancing these concerns, Visa introduced what it calls ‘Secure ChatGPT,’ which sits behind a firewall and runs internally on Microsoft Azure. The company can control input and output via data loss prevention (DLP) screening to ensure no sensitive data is leaving Visa’s systems. 
+“All the hundreds of petabytes of data, everything is encrypted, everything is secure at rest and also in transport,” Hamilton explained.
+ADVERTISEMENT
+Despite the name, Secure ChatGPT is a multi-model interface offering six different options: GPT (and its various iterations), Mistral, Anthropic’s Claude, Meta’s Llama, Google’s Gemini and IBM’s Granite. Hamilton described this as model-as-a-service or RAG-as-a-service. 
+“Think of that as a kind of a layer where we can provide an abstraction,” he said.
+Instead of people building their own vector databases, they can pick and choose the API that best fits their particular use case. For instance, if they just need a little bit of fine-tuning, they’ll typically choose a smaller open-source model like Mistral; by contrast, if they’re looking for more of a sophisticated reasoning model, they can choose something like OpenAI o1 or o3. 
+ADVERTISEMENT
+This way, people don’t feel constrained or as if they’re missing out on what’s readily available in the public domain (which can lead to ‘shadow AI,’ or the use of unapproved models). Secure GPT is “nothing more than a shell on top of the model,” Hamilton explained. “Now they can pick the model they want on top of that.” 
+Beyond Secure ChatGPT, all Visa developers are given access to GitHub Copilot to assist in their day to day coding and testing. Developers use Copilot and plugins for various integrated development environments (IDEs) to understand code, enhance code and perform unit testing (determining that code runs as intended), Hamilton noted.
+“So the code coverage [identifying areas where proper testing is lacking] increases significantly because we have this assistant,” he said. 
+RAG-as-a-service in action
+One of the most potent use cases for Secure ChatGPT is the handling of policy-related questions specific to a given region. 
+“As you can imagine, being in 200 countries with different regulations, documents could be thousands and thousands, hundreds of thousands,” Hamilton noted. “That gets really complicated. You need to nail that, right? And it needs to be an exhaustive search.” 
+Not to mention, local policy changes over time, so Visa’s experts must be up-to-date. 
+Now with a robust RAG grounded in reliable, up-to-date data, Visa’s AI not only quickly retrieves answers, but provides citations and source materials. “It tells you what you can do or cannot do, and says, ‘Here is the document that you want, I’m giving an answer based on that,’” Hamilton explained. “We have narrowed answers with the knowledge that we have built into the RAG.” 
+Normally, the exhaustive process would take “if not hours, days” to draw concrete conclusions. “Now I can get that in five minutes, two minutes,” said Hamilton. 
+Visa’s four-layer ‘birthday cake’ data infrastructure
+These capabilities are the result of Visa’s heavy investment in data infrastructure over the last 10 years: The finance giant has spent around $3 billion on its tech stack, according to Hamilton. 
+He describes that stack as a “birthday cake with 4 layers”: The foundation is a ‘data-platform-as-a-service layer, with ‘data-as-a-service,’ an AI and machine learning (ML) ecosystem and data services and products layers built on top. 
+Data-platform-as-a-service essentially serves as an operating system built on a data lake that aggregates “hundreds of petabytes of data,” Hamilton explained. The layer above, data-as-a-service, serves as a sort of “data highway” with multiple lanes going at different speeds to power hundreds of applications. 
+Layer three, the AI/ML ecosystem, is where Visa continuously tests models to ensure they are performing the way they should be, and are not susceptible to bias and drift. Finally, the fourth layer is where Visa builds products for employees and clients. 
+Blocking $40 billion in fraud
+Being a trusted payment provider, one of Visa’s top priorities is fraud prevention, and AI is playing an increased role here, as well. Hamilton explained that the company has invested more than $10 billion to help reduce fraud and increase network security. Ultimately, this helped the company block $40 billion in attempted fraud in 2024 alone.
+For instance, a new Visa deep authorization tool provides transaction risk scoring to help manage card-not-present (CNP) payments (such as when users pay via web or mobile app, as is everyday practice for all of us). This is powered by a deep learning recurrent neural network (RNN) model based on petabytes of contextual data. Similarly, real-time, account-to-account payment protection (think via digital wallets or instant payment systems) — is enabled by deep learning AI models that produce instant risk scores and automatically block bad transactions. 
+Hamilton explained that Visa used a transformer-based model — a neural network that learns context and meaning by tracking relationships in data — to enhance these tools and quickly identify and thwart fraud. “We wanted to do that in line with the transactions,” he said. “That means we have less than a second, I should say milliseconds, response times.” 
+Synthetic data provides value in fraud prevention, as well: Hamilton’s team augments existing data with synthetic data to perform simulations around newer enumerations of fraud. “That helps us learn what’s happening now and what could happen in the short term and long term, so we can simulate and train the model to catch the data,” he said.  
+He noted that fraud is an arms race — and there’s a very low barrier to entry for threat actors. “We need to be a step ahead of that and anticipate and block them,” Hamilton emphasized. 
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.

@@ -1,0 +1,34 @@
+Nvidia said the big industrial software and service providers are integrating Omniverse into their platforms to accelerate industrial digitalization with physical AI.
+Those integrating Nvidia Omniverse include Ansys, Databricks, Dematic, Omron, SAP, Schneider Electric with ETAP, Siemens and more. Nvidia made the announcement during Jensen Huang’s keynote speech during the Nvidia GTC 2025 event today in San Jose, California.
+104_Building games players actually want to PLAY - How Web3 is enabling new innovation and IP into the gaming space.mp4
+New Nvidia Omniverse Blueprints connected to Nvidia Cosmos world foundation models are now available to enable robot-ready facilities and large-scale synthetic data generation for physical AI development.
+“Omniverse is an operating system that connects the world’s physical data to the realm of physical AI,” said Rev Lebaredian, vice president of Omniverse simulation technology at Nvidia, in a statement. “With Omniverse, global industrial software, data and professional services leaders are uniting industrial ecosystems and building new applications that will advance the next generation of AI for industries at
+unprecedented speed.”
+New Blueprints Enable Robot-Ready Facilities and Large-Scale Synthetic Data Generation
+Mega, an Omniverse Blueprint for testing multi-robot fleets at scale in industrial digital twins, is now available in preview on build.nvidia.com. Also available is the Nvidia AI Blueprint for video search and summarization, powered by the Nvidia Metropolis platform, for building AI agents that monitor activity across entire facilities.
+Manufacturing leaders are using the blueprints to optimize their industrial operations with physical AI.
+In automotive manufacturing, Schaeffler and Accenture are starting to adopt Mega to test and simulate fleets of Agility Robotics Digit for material-handling automation. Hyundai Motor Group is using the blueprint to simulate Boston Dynamics Atlas robots on its assembly lines, and Mercedes-Benz is using it to simulate Apptronik’s Apollo humanoid robots to optimize vehicle assembly operations.
+In electronics manufacturing, Pegatron is using Mega to develop physical AI-based Nvidia Metropolis video analytics agents to improve factory operations and worker safety. Foxconn is using the blueprint to simulate industrial manipulators, humanoids and mobile robots in its manufacturing facilities for the Nvidia Blackwell platform.
+ADVERTISEMENT
+“Foxconn is constantly exploring ways to transform our operations as we continue our journey toward building the factories of the future,” said Brand Cheng, CEO of Fii, a core subsidiary of Foxconn, in a statement. “Using NVIDIA Omniverse and Mega, we’re testing and training humanoids to operate in our leading factories as we advance to the next wave of physical AI.”
+For warehouses and supply chain solutions, KION Group, Dematic and Accenture announced they are integrating Mega to advance next-generation AI-powered automation. Idealworks is integrating Mega into its fleet management software to simulate, test and optimize robotic fleets. SAP customers and partners can use Omniverse to develop their own virtual environments for warehouse management
+scenarios.
+ADVERTISEMENT
+A new Omniverse Blueprint for AI factory digital twins lets data center engineers design and simulate AI factory layouts, cooling and electrical to maximize utilization and efficiency. Cadence Reality Digital Twin Platform and Schneider Electric with ETAP are the first to integrate their simulation software into the blueprint, while Vertiv and Schneider Electric are providing Omniverse SimReady 3D models of their
+power and cooling units to accelerate the development of AI factory digital twins.
+The Nvidia Isaac GR00T Blueprint for synthetic manipulation motion generation is also now available for robotics developers, enabling large-scale synthetic data generation from Omniverse and Cosmos. The blueprint helps humanoid developers reduce data collection time from hours to minutes, fast-tracking robot development.
+Omniverse Physical AI Operating System Expands Across Industries
+Digitalization is challenging for industries grounded in the physical world. Massive amounts of digital and physical world data from legacy systems create silos. Omniverse is an operating system built on the OpenUSD framework that enables developers to unify physical-world data and applications.
+Ansys, Cadence, Hexagon, Omron, Rockwell Automation and Siemens are integrating Omniverse data interoperability and visualization technologies into their leading industrial software, simulation and automation solutions to accelerate product development and optimize manufacturing processes.
+For physical AI, Intrinsic, an Alphabet company, is enabling Omniverse workflows and Nvidia robotics foundation models to transition from digital twins to hardware deployments using Flowstate. Databricks is integrating Nvidia Omniverse with the Databricks Data Intelligence Platform, which will enable large-scale synthetic data generation for physical AI.
+General Motors, America’s largest auto manufacturer, announced its adoption of Omniverse to enhance its factories and train platforms for operations such as material handling, transportation and precision welding. At the other end of the manufacturing life cycle, Unilever announced its adoption of Omniverse and physically accurate digital twins to streamline and optimize marketing content creation for its products.
+Omniverse in Every Cloud
+Omniverse AI factory blueprint.
+To simplify development, deployment and scale-out of OpenUSD-based applications, Nvidia Omniverse is now available as virtual desktop images on EC2 G6e instances with NVIDIA L40S GPUs in AWS Marketplace. The Microsoft Azure Marketplace now features preconfigured Omniverse instances and Omniverse Kit App Streaming on Nvidia A10 GPUs, allowing developers to easily develop and
+stream their custom Omniverse applications.
+These cloud-based Nvidia Omniverse developer tools and services are expected to be available later this year on Oracle Cloud Infrastructure compute bare-metal instances with Nvidia L40S GPUs, as well as the newly announced Nvidia RTX Pro 6000 Blackwell Server Edition on Google Cloud.
+OpenUSD Unifies Robotics Workflows
+At GTC, NVIDIA introduced the OpenUSD Asset Structure Pipeline for Robotics with Disney Research and Intrinsic. This new structure and data pipeline uses today’s best practices within OpenESt to work toward unifying robotic workflows, providing a common language for all data sources.
+GTC 2025 runs through Friday March 21.
+Stay in the know! Get the latest news in your inbox daily
+Subscribe

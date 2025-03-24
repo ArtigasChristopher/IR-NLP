@@ -1,0 +1,46 @@
+Zoom became a household name during the pandemic as remote work became the norm nearly overnight.
+While the company was once synonymous only with video conferencing, it has been quietly building a sophisticated AI infrastructure over the last several years with an aim to redefine workplace productivity. While video conferencing is important and remains the cornerstone of Zoom’s business, there’s a lot more now, too, thanks to AI.
+Why Private Compute Should Be Part of Your AI Strategy - AI Impact Tour 2024
+Moving from meeting to milestone
+Everyone knows that Zoom is a technology for meetings. But what is the meeting for?
+In a business context, certainly there can be meetings that have no purpose, but those should be outliers. Meetings should lead to something, whether that’s an action item or some other milestone.
+“In the agentic AI era, finally technology is reaching the point that we can transform from meeting to milestone,” Zoom CTO Xuedong (X.D.) Huang told VentureBeat in an exclusive interview.
+Today, Zoom is announcing an aggressive agentic AI strategy that includes a series of new services. The update introduces agentic capabilities that promise to transform meetings from communication events into action-oriented workflows, alongside a new AI Studio that lets enterprises create customized AI agents.
+The hidden technical evolution behind Zoom’s agentic AI 
+Prior to joining Zoom, Huang spent 30 years at Microsoft, working on speech technologies as well as Microsoft’s Azure OpenAI service. He carried forward a lot of lessons learned from that experience when he joined Zoom in 2023.
+Under Huang’s direction, Zoom began quietly building an AI architecture designed to facilitate tasks rather than just summarize conversations. Zoom publicly announced a partnership with Anthropic in May 2023 — but that’s not the only large language model (LLM) used at Zoom.
+While Microsoft Teams generally relies on OpenAI via the Microsoft OpenAI Azure service, and Google Meet is supported by Google Gemini, Zoom has taken an agnostic approach to LLMs.
+ADVERTISEMENT
+Huang explained that when Zoom launched the first iteration of its AI companion in 2023, it wasn’t based on any one single LLM. Instead, the company started off with a federated approach, using multiple LLMs including its own custom built small language model (SLM).
+“We’ve partnered with the best models out there, including OpenAI and Anthropic, but we’ve also built our own highly customized 2 billion parameter language model,” said Huang.
+ADVERTISEMENT
+Zoom’s AI Companion uses a federated approach in which the smaller Zoom model is used in conjunction with larger, industry-leading language models. The smaller model initially evaluates and processes the input, and the partial results are then passed to larger models to produce the final output. This approach allows Zoom to take advantage of the strengths of both the smaller, customized model and the larger, more powerful models, while reducing costs and improving performance.
+How the small language model is at the center of Zoom’s agentic AI journey
+Perhaps the most technically intriguing aspect of Zoom’s AI strategy is its focus on SLMs. Rather than following the industry trend of distilling smaller models from larger ones, Zoom built its 2-billion parameter model entirely from scratch.
+The technical advantage of this approach becomes apparent when customizing for specific domains. “When you customize, it takes more effort, it’s just hard to steer a bigger ship,” Huang explained.
+As it turns out, the ability to customize the small model is a critical component to the development of specific agentic AI workflows. Looking ahead, Zoom envisions its SLMs eventually running directly on user devices, enabling both better privacy and more personalized experiences.
+AI companion 2.0: Agentic AI transforms meetings to milestones
+At the heart of Zoom’s updates is AI Companion 2.0, which transforms Zoom’s AI capabilities from meeting support to fully agentic functions. With 2.0, Zoom is evolving from assistant to agentic AI that is capable of reasoning, memory and task execution.
+The evolved AI Companion can now execute multi-step actions on behalf of users, orchestrating tasks like scheduling meetings, generating video clips and creating documents.
+Key updates include:
+Agentic skills: Calendar management, clip generation, advanced writing assistance;
+Task management: Automatic detection of action items from meetings and chats;
+Meeting enhancements: AI-powered agendas, live notes and voice recording;
+Document creation: Advanced references and automatic data table generation in Zoom Docs;
+Virtual agents: Self-service capabilities for customer service with both chat and voice support;
+Industry solutions: Specialized tools for frontline workers, healthcare professionals and educators;
+Zoom Drive: New central repository for meeting assets and productivity documents;
+Custom avatars: AI-generated video avatars for creating presentation clips.
+Most features will roll out between March and July 2025. While the standard AI Companion is included at no additional cost for paid users, specialized agents and custom configurations will require additional fees.
+“The most important aspect for us of agentic AI is really enabling the action-oriented information flow,” said Huang. “What that means is that when you have a meeting, the action task will flow into Docs or chat or into other actions you have to take.”
+AI Studio: Building custom agents for enterprises 
+While Zoom is providing a lot of different agentic AI capabilities out-of-the-box for users, Huang recognized that enterprises often need more customized options.
+That’s where AI Studio comes in, allowing companies to create customized AI agents tailored to specific business needs. These can be deeply integrated with company-specific knowledge and workflow processes.
+As an example, Huang detailed one practical application for human resources policy. Enterprises can use the AI Studio to upload all of their internal HR policy documents. The AI companion will then be trained on this company-specific HR policy information, allowing it to accurately answer employee questions about HR guidelines and procedures.
+IT administrators can also use the AI Studio to connect the companion to other internal knowledge bases, like IT support documentation. The goal is to enable companies to create AI agents that are deeply integrated with their own processes, data and workflows, transforming the AI companion into a customized and valuable productivity tool.
+Implications for enterprise AI decision-makers
+For technical decision-makers evaluating productivity AI solutions, Zoom’s approach offers several distinctive considerations compared to alternatives from Microsoft, Google and other vendors.
+The action-oriented information flow model may better suit organizations where meetings are the primary collaboration medium, and where task completion is hampered by information fragmentation across various tools. Companies with high meeting volumes might find particular value in Zoom’s ability to connect conversations to subsequent actions.
+Additionally, the federated AI approach combining SLMs and LLMs presents an architecture worth studying — potentially offering better economics while maintaining quality. As AI costs become a growing concern for enterprises scaling their AI implementations, this balanced approach could prove influential.
+For enterprises looking to lead the way in AI adoption, Zoom’s evolution from meeting tool to comprehensive productivity platform offers valuable lessons in how to build on existing strengths rather than simply adding AI to existing workflows. By leveraging its meeting dominance to reimagine the entire productivity experience, Zoom is demonstrating how domain expertise can be combined with AI capabilities to create solutions that address specific business problems rather than generic AI assistants.
+If you want to impress your boss, VB Daily has you covered. We give you the inside scoop on what companies are doing with generative AI, from regulatory shifts to practical deployments, so you can share insights for maximum ROI.
