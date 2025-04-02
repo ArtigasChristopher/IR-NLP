@@ -12,6 +12,13 @@ Then building an IR System with :
 
 For my collection i decided to collect articles talking about AI news by scrapping the venturebeat.com website.
 
+## Dependencies
+
+You first need python for executing this repository code.
+Use this command for the installation of dependencies :
+
+`pip install -r requirements.txt`
+
 ## How to generate Data ?
 
 - By using `python3 Scrap.py` all the articles that can be found on venturebeat.com will be stored in 'articles.json' file.
@@ -24,3 +31,13 @@ For my collection i decided to collect articles talking about AI news by scrappi
   - 'ai OR openai' will search for one of these words with boolean search.
   - 'ai AND openai' will search for both words in a file with boolean search.
   - 'vector ai' will search for the word 'ai' with vector space search.
+
+## Evalutation of Precision and Recall
+
+For evaluation of the precision and recall in boolean IR :
+
+```bash
+python precision_recall.py
+```
+
+Results will be saved in `evaluation_results.json`.

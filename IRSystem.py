@@ -16,7 +16,7 @@ class IRSystemWhoosh:
         self.index_dir = index_dir
         self.schema = Schema(title=TEXT(stored=True), content=TEXT(stored=True), path=ID(stored=True))
         if not os.path.exists(self.index_dir):
-            os.mkdir(self.index_dir)
+            os.makedirs(self.index_dir, exist_ok=True)
             self.ix = create_in(self.index_dir, self.schema)
             self.index_documents()
         else:

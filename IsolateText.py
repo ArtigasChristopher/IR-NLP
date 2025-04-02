@@ -3,7 +3,6 @@ import json
 import os
 
 def safe_filename(filename):
-    # Remplace les caractères interdits sur Windows : \ / : * ? " < > |
     return re.sub(r'[\\/:*?"<>|]', '-', filename)
 
 def load_articles(json_file):
